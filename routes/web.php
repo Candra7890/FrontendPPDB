@@ -18,9 +18,7 @@ use App\Http\Controllers\HomepageController;
 |
 */
 
-Route::get('/', function () {
-    return redirect('/dashboard');
-});
+
 
 Route::get('/dashboard', function () {
     return view('dashboard');
@@ -43,7 +41,7 @@ Route::get('login_siswa', [SiswaController::class, 'login_siswa']);
 Route::get('register_siswa', [SiswaController::class, 'register_siswa']);
 
 //homepage
-Route::get('/index', [HomepageController::class, 'index']);
+Route::get('/', [HomepageController::class, 'index']);
 Route::get('/pengertian', [HomepageController::class, 'pengertian']);
 Route::get('/berita', [HomepageController::class, 'berita']);
 Route::get('/pengaduan', [HomepageController::class, 'pengaduan']);
