@@ -10,8 +10,8 @@
             <div class="col-lg-7 col-12">
                 <div class="mu-contact-area">
                     <div class="mu-title">
-                        <span class="mu-subtitle">Masih Bingung Apa Saja Dokumen Yang Perlu Dipersiapkan Pada Pelaksanaan PPDB?</span>
-                        <h2>Berikut Merupakan List Lengkapnya!</h2>
+                        <span class="mu-subtitle" style="color: #FFFFFF;">Masih Bingung Apa Saja Dokumen Yang Perlu Dipersiapkan Pada Pelaksanaan PPDB?</span>
+                        <h2 style="color: #FFFFFF;">Berikut Merupakan List Lengkapnya!</h2>
                     </div>
                 </div>
             </div>

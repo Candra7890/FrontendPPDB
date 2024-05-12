@@ -33,13 +33,7 @@
         <link rel="tabanan-icon" href="/topiclist/images/OIP__15_-removebg-preview (1).png">
         <link rel="tabanan-icon" sizes="72x72" href="/topiclist/images/OIP__15_-removebg-preview (1).png">
         <link rel="tabanan-icon" sizes="114x114" href="/topiclist/images/OIP__15_-removebg-preview (2).png">
-<!--
 
-TemplateMo 590 topic listing
-
-https://templatemo.com/tm-590-topic-listing
-
--->
     </head>
     <body id="top">
         <main>
@@ -47,7 +41,7 @@ https://templatemo.com/tm-590-topic-listing
                 <div class="container">
                     <a class="navbar-brand" href="index.html">
                         <img src="/topiclist/images/OIP__15_-removebg-preview.png" style="width: 100px; height: 100;">
-                        <span>PPDB</span>
+                        <span style="color: #FFFFFF;">PPDB</span>
                     </a>
 
                     <div class="d-lg-none ms-auto me-4">
@@ -60,7 +54,7 @@ https://templatemo.com/tm-590-topic-listing
                     <div class="collapse navbar-collapse" id="navbarNav">
                         <ul class="navbar-nav ms-lg-5 me-lg-auto">
                             <li class="nav-item">
-                                <a class="nav-link click-scroll" href="/index">Home</a>
+                                <a class="nav-link click-scroll" href="/">Home</a>
                             </li>
 
                             <li class="nav-item">
@@ -69,10 +63,6 @@ https://templatemo.com/tm-590-topic-listing
     
                             <li class="nav-item">
                                 <a class="nav-link click-scroll" href="/dokumen">Persyaratan & Dokumen</a>
-                            </li>
-
-                            <li class="nav-item">
-                                <a class="nav-link click-scroll" href="/index">FAQ</a>
                             </li>
     
                             <li class="nav-item">

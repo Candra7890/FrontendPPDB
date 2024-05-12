@@ -10,8 +10,8 @@
             <div class="col-lg-7 col-12">
                 <div class="mu-contact-area">
                     <div class="mu-title">
-                        <span class="mu-subtitle">Masih Belum Tahu Mulai Kapan Pelaksanaan PPDB Berlangsung?</span>
-                        <h2>Berikut Merupakan Jadwal Lengkapnya!</h2>
+                        <span class="mu-subtitle" style="color: #FFFFFF;">Masih Belum Tahu Mulai Kapan Pelaksanaan PPDB Berlangsung?</span>
+                        <h2 style="color: #FFFFFF;">Berikut Merupakan Jadwal Lengkapnya!</h2>
                     </div>
                 </div>
             </div>

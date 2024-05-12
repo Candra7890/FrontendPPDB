@@ -10,40 +10,42 @@ https://templatemo.com/tm-590-topic-listing
   CUSTOM PROPERTIES ( VARIABLES )             
 -----------------------------------------*/
 :root {
-  --white-color:                  #ffffff;
-  --primary-color:                #13547a;
-  --secondary-color:              #80d0c7;
-  --section-bg-color:             #f0f8ff;
-  --custom-btn-bg-color:          #80d0c7;
-  --custom-btn-bg-hover-color:    #13547a;
-  --dark-color:                   #000000;
-  --p-color:                      #717275;
-  --border-color:                 #7fffd4;
-  --link-hover-color:             #13547a;
+  --white-color: #ffffff; /* Putih */
+  --primary-color: #ff0000; /* Merah */
+  --secondary-color: #000000; /* Hitam */
+  --section-bg-color: #ffffff; /* Putih */
+  --custom-btn-bg-color: #ff0000; /* Merah */
+  --custom-btn-bg-hover-color: #ff0000; /* Merah */
+  --dark-color: #000000; /* Hitam */
+  --p-color: #000000; /* Hitam */
+  --border-color: #000000; /* Hitam */
+  --link-hover-color: #ff0000; /* Merah */
 
-  --body-font-family:             'Open Sans', sans-serif;
-  --title-font-family:            'Montserrat', sans-serif;
+  --body-font-family: 'Open Sans', sans-serif;
+  --title-font-family: 'Montserrat', sans-serif;
 
-  --h1-font-size:                 58px;
-  --h2-font-size:                 46px;
-  --h3-font-size:                 32px;
-  --h4-font-size:                 28px;
-  --h5-font-size:                 24px;
-  --h6-font-size:                 22px;
-  --p-font-size:                  20px;
-  --menu-font-size:               14px;
-  --btn-font-size:                18px;
-  --copyright-font-size:          16px;
+  --h1-font-size: 58px;
+  --h2-font-size: 46px;
+  --h3-font-size: 32px;
+  --h4-font-size: 28px;
+  --h5-font-size: 24px;
+  --h6-font-size: 22px;
+  --p-font-size: 20px;
+  --menu-font-size: 14px;
+  --btn-font-size: 18px;
+  --copyright-font-size: 16px;
 
-  --border-radius-large:          100px;
-  --border-radius-medium:         20px;
-  --border-radius-small:          10px;
+  --border-radius-large: 100px;
+  --border-radius-medium: 20px;
+  --border-radius-small: 10px;
 
-  --font-weight-normal:           400;
-  --font-weight-medium:           500;
-  --font-weight-semibold:         600;
-  --font-weight-bold:             700;
+  --font-weight-normal: 400;
+  --font-weight-medium: 500;
+  --font-weight-semibold: 600;
+  --font-weight-bold: 700;
 }
+
+
 
 body {
   background-color: var(--white-color);
@@ -147,7 +149,7 @@ strong {
 }
 
 .section-overlay {
-  background-image: linear-gradient(15deg, #13547a 0%, #80d0c7 100%);
+  background-image: linear-gradient(15deg, #000000 0%, #c73737 100%);
   position: absolute;
   top: 0;
   left: 0;
@@ -248,7 +250,7 @@ strong {
   SITE HEADER              
 -----------------------------------------*/
 .site-header {
-  background-image: linear-gradient(15deg, #13547a 0%, #80d0c7 100%);
+  background-image: linear-gradient(15deg, #000000 0%, #c73737 100%);
   padding-top: 150px;
   padding-bottom: 80px;
 }
@@ -289,7 +291,7 @@ strong {
 
 .navbar {
   background: transparent;
-  border-bottom: 1px solid rgba(128, 208, 199, 0.35);
+  border-bottom: 1px solid rgba(208, 128, 128, 0.35);
   z-index: 9;
 }
 
@@ -486,7 +488,7 @@ strong {
   HERO        
 -----------------------------------------*/
 .hero-section {
-  background-image: linear-gradient(15deg, #13547a 0%, #80d0c7 100%);
+  background-image: linear-gradient(15deg, #000000 0%, #ff0000 100%);
   position: relative;
   overflow: hidden;
   padding-top: 150px;
@@ -524,7 +526,7 @@ strong {
   TOPICS              
 -----------------------------------------*/
 .featured-section {
-  background-color: var(--secondary-color);
+  background-color: var(--primary-color);
   border-radius: 0 0 100px 100px;
   padding-bottom: 100px;
 }

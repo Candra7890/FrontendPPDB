@@ -16,8 +16,8 @@
             <div class="col-lg-7 col-12">
                 <div class="mu-contact-area">
                     <div class="mu-title">
-                        <span class="mu-subtitle">Menemukan Masalah? Kesulitan? Kejanggalan tentang PPDB?</span>
-                        <h2>Silahkan Langsung Beritahu Kami!</h2>
+                        <span class="mu-subtitle" style="color: #FFFFFF;">Menemukan Masalah? Kesulitan? Kejanggalan tentang PPDB?</span>
+                        <h2 style="color: #FFFFFF;">Silahkan Langsung Beritahu Kami!</h2>
                     </div>
                 </div>
             </div>

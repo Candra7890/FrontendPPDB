@@ -10,8 +10,8 @@
             <div class="col-lg-7 col-12">
                 <div class="mu-contact-area">
                     <div class="mu-title">
-                        <span class="mu-subtitle">Ingin Mengetahui Lebih Cepat dan Terkini Mengenai Info PPDB?</span>
-                        <h2>Silahkan Terus Pantengin Berita PPDB disini!</h2>
+                        <span class="mu-subtitle" style="color: #FFFFFF;">Ingin Mengetahui Lebih Cepat dan Terkini Mengenai Info PPDB?</span>
+                        <h2 style="color: #FFFFFF;">Silahkan Terus Pantengin Berita PPDB disini!</h2>
                     </div>
                 </div>
             </div>
