@@ -41,7 +41,7 @@
                 <div class="container">
                     <a class="navbar-brand" href="index.html">
                         <img src="/topiclist/images/OIP__15_-removebg-preview.png" style="width: 100px; height: 100;">
-                        <span style="color: #FFFFFF;">PPDB</span>
+                        <span style="color: #FFFFFF;">PPDB TABANAN</span>
                     </a>
 
                     <div class="d-lg-none ms-auto me-4">
@@ -74,8 +74,6 @@
 
                                 <ul class="dropdown-menu dropdown-menu-light" aria-labelledby="navbarLightDropdownMenuLink">
                                     <li><a class="dropdown-item" href="/jalursmp">Alur Pendaftaran PPDB SMP</a></li>
-
-                                    <li><a class="dropdown-item" href="/jalursd">Alur Pendaftaran PPDB SD</a></li>
                                 </ul>
                             </li>
                         </ul>
@@ -102,46 +100,38 @@
                         </a>
                     </div>
 
-                    <div class="col-lg-3 col-md-4 col-6">
-                        <h6 class="site-footer-title mb-3">Resources</h6>
+                    <div class="col-lg-3 col-md-4 col-6" >
+                        <h6 class="site-footer-title mb-3" style="color: #FF0000">Disdik Tabanan</h6>
 
                         <ul class="site-footer-links">
                             <li class="site-footer-link-item">
-                                <a href="#" class="site-footer-link">Home</a>
+                                <a href="https://www.google.co.id/maps/place/Dinas+Pendidikan+Kabupaten+Tabanan+%E1%AC%A4%E1%AC%B6%E1%AC%A6%E1%AC%B2%E1%AD%84%E1%AC%A7%E1%AD%82%E1%AC%A6%E1%AD%84%E1%AC%A4%E1%AC%B6%E1%AC%A4%E1%AC%B6%E1%AC%93%E1%AC%A6%E1%AD%84%E1%AC%93%E1%AC%AA%E1%AC%B9%E1%AC%A7%E1%AC%A2%E1%AC%BE%E1%AC%A6%E1%AD%84%E1%AC%A2%E1%AC%A9%E1%AC%A6%E1%AC%A6%E1%AD%84%E1%AD%9F/@-8.5406794,115.1309531,3a,75y,45.43h,92.61t/data=!3m6!1e1!3m4!1ssOwCtaMdvmYji4fqCnCaOg!2e0!7i16384!8i8192!4m6!3m5!1s0x2dd23a50b8ddf961:0x590f056c1de4ba43!8m2!3d-8.5405165!4d115.1309614!16s%2Fg%2F11gd20sz9w?entry=ttu" class="site-footer-link" style="color: #000000">Alamat Kantor</a>
                             </li>
 
                             <li class="site-footer-link-item">
-                                <a href="#" class="site-footer-link">How it works</a>
-                            </li>
-
-                            <li class="site-footer-link-item">
-                                <a href="#" class="site-footer-link">FAQs</a>
-                            </li>
-
-                            <li class="site-footer-link-item">
-                                <a href="#" class="site-footer-link">Contact</a>
+                                <a href="https://disdik.tabanankab.go.id/" class="site-footer-link" style="color: #000000">Website Utama</a>
                             </li>
                         </ul>
                     </div>
 
                     <div class="col-lg-3 col-md-4 col-6 mb-4 mb-lg-0">
-                        <h6 class="site-footer-title mb-3">Information</h6>
+                        <h6 class="site-footer-title mb-3" style="color: #FF0000">Call Center</h6>
 
                         <p class="text-white d-flex mb-1">
-                            <a href="tel: 305-240-9671" class="site-footer-link">
-                                305-240-9671
+                            <a href="tel: 305-240-9671" class="site-footer-link" style="color: #000000">
+                                (0361) 810796
                             </a>
                         </p>
 
                         <p class="text-white d-flex">
-                            <a href="mailto:info@company.com" class="site-footer-link">
-                                info@company.com
+                            <a href="mailto:disdik@tabanankab.go.id" class="site-footer-link" style="color: #000000">
+                                disdik@tabanankab.go.id
                             </a>
                         </p>
                     </div>
 
                     <div class="col-lg-3 col-md-4 col-12 mt-4 mt-lg-0 ms-auto">
-                        <p class="copyright-text mt-lg-5 mt-4">Copyright © 2024 PPDB. All rights reserved.
+                        <p class="copyright-text mt-lg-5 mt-4">Copyright © 2024 Dinas Pendidikan Kabupaten Tabanan
                     </div>
 
                 </div>
