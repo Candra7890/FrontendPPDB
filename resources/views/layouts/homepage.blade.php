@@ -8,7 +8,7 @@
         <meta name="author" content="">
 
         <title>
-            @yield('title', 'PPDB Tabanan')
+            @yield('title', 'PPDB Tabanan 2024')
         </title>
 
         <!-- CSS FILES -->        
@@ -215,15 +215,14 @@
                                     <div class="row justify-content-center">
                                         <div class="col-lg-8 col-md-10 col-12 mb-4 mb-lg-0">
                                             <div class="custom-block bg-white shadow-lg">
-                                                <a href="/pendaftaranzonasismp">
+                                                <a href="/">
                                                     <div class="d-flex justify-content-center align-items-center">
                                                         <div>
                                                             <h5 class="mb-2">PPDB Jalur Zonasi</h5>
 
                                                             <p class="mb-0"><strong>Klik Disini Untuk Mulai Pendaftaran!</strong></p>
                                                         </div>
-
-                                                        <span class="badge bg-education rounded-pill ms-auto"  style="padding: 5px 30px;">Aktif</span>
+                                                        <span class="badge bg-advertising rounded-pill ms-auto" style="padding: 5px 30px;">Non Aktif</span>
                                                     </div>
 
                                                     <img src="/topiclist/images/topics/undraw_Remote_design_team_re_urdx.png" class="custom-block-image img-fluid mt-3" style="object-fit: cover; width: 100%; height: 100%;" alt="">
@@ -238,7 +237,7 @@
                                     <div class="row justify-content-center">
                                         <div class="col-lg-8 col-md-10 col-12 mb-4 mb-lg-0">
                                                 <div class="custom-block bg-white shadow-lg">
-                                                    <a href="/pendaftaranafirmasismp">
+                                                    <a href="/">
                                                         <div class="d-flex justify-content-center align-items-center">
                                                             <div>
                                                                 <h5 class="mb-2">PPDB Jalur Afirmasi</h5>
@@ -260,7 +259,7 @@
                                     <div class="row justify-content-center">
                                         <div class="col-lg-8 col-md-10 col-12 mb-4 mb-lg-0">
                                                 <div class="custom-block bg-white shadow-lg">
-                                                    <a href="/pendaftaranperpindahansmp">
+                                                    <a href="/">
                                                         <div class="d-flex justify-content-center align-items-center">
                                                             <div>
                                                                 <h5 class="mb-2">PPDB Jalur Perpindahan Tugas</h5>
@@ -282,7 +281,7 @@
                                     <div class="row justify-content-center">
                                         <div class="col-lg-8 col-md-10 col-12 mb-4 mb-lg-0">
                                             <div class="custom-block bg-white shadow-lg">
-                                                <a href="/pendaftaranraporprestasismp">
+                                                <a href="/">
                                                     <div class="d-flex justify-content-center align-items-center">
                                                         <div>
                                                             <h5 class="mb-2">PPDB Jalur Rapor dan Prestasi</h5>
@@ -442,12 +441,15 @@
             <div class="container">
                 <div class="row">
 
-                    <div class="col-lg-3 col-12 mb-4 pb-2">
-                        <a class="navbar-brand" href="/topiclist/index.html">
-                            <img src="/topiclist/images/OIP__15_-removebg-preview.png" style="width: 100px; height: 100;">
-                                <span>PPDB</span>
-                        </a>
-                    </div>
+                <div class="col-lg-3 col-12 mb-4 pb-2">
+                    <a class="navbar-brand d-flex align-items-center" href="/topiclist/index.html">
+                        <img class="mr-2" src="/topiclist/images/OIP__15_-removebg-preview.png" style="width: 100px; height: 100;">
+                        <div>
+                            <span>PPDB</span><br>
+                            <span>TABANAN</span>
+                        </div>
+                    </a>
+                </div>
 
                     <div class="col-lg-3 col-md-4 col-6" >
                         <h6 class="site-footer-title mb-3" style="color: #FF0000">Disdik Tabanan</h6>

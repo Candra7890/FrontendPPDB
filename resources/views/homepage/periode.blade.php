@@ -56,43 +56,32 @@
                                         <h3 class="text-center mb-4">Jadwal PPDB Jalur Zonasi</h3>
                                             <table class="table table-bordered text-center">
                                                 <thead>
-                                                <tr style="background-color: #28a745; color: #ffffff;">
+                                                <tr style="background-color: #c73737; color: #ffffff;">
                                                     <th>Kegiatan</th>
-                                                    <th>Lokasi</th>
                                                     <th>Hari/Tanggal</th>
                                                     <th>Waktu</th>
                                                 </tr>
                                                 </thead>
                                         <tbody>
                                             <tr>
-                                                <td>Pengajuan Akun</td>
-                                                <td>Online</td>
-                                                <td>19 Mei - 14 Juni 2024</td>
-                                                <td>24 jam (Ajuan Akun dibuka pukul 08:00 dan ditutup pukul 12:00 di hari terakhir) </td>
+                                                <td>Pendaftaran</td>
+                                                <td>Senin-Rabu (10 Juni s.d 12 Juni 2024)</td>
+                                                <td>Buka Tgl. 10 Juni 2024 pukul 08.00 Wita dan Tutup Tgl. 12 Juni 2024 pukul 13.00 Wita </td>
                                             </tr>
                                             <tr>
-                                                <td>Pendaftaran dan Pemilihan Sekolah</td>
-                                                <td>Online</td>
-                                                <td>12 - 14 Juni 2024</td>
-                                                <td>24 jam (Pendaftaran hari peratama dibuka pukul 08:00 dan hari terakhir ditutup pukul 14:00)</td>
-                                            </tr>
-                                            <tr>
-                                                <td>Proses Seleksi</td>
-                                                <td>Online</td>
-                                                <td>12 - 14 Juni 2024</td>
-                                                <td>24 jam (Seleksi pada hari pertama dibuka pukul 08:00 dan hari terakhir ditutup pukul 14:00)</td>
+                                                <td>Verifikasi</td>
+                                                <td>Senin-Rabu (10 Juni s.d 12 Juni 2024) </td>
+                                                <td>Buka Tgl. 10 Juni 2024 pukul 08.00 Wita dan Tutup Tgl. 12 Juni 2024 pukul 18.00 Wita</td>
                                             </tr>
                                             <tr>
                                                 <td>Pengumuman</td>
-                                                <td>Ruang Pendaftaran</td>
-                                                <td>14 Juni 2024</td>
-                                                <td>17:00 WIB</td>
+                                                <td>Jumat, 14 Juni 2024</td>
+                                                <td>Pukul 08.00 Wita </td>
                                             </tr>
                                             <tr>
-                                                <td>Lapor Diri</td>
-                                                <td>Sekolah Tujuan</td>
-                                                <td>15 - 16 Juni 2024</td>
-                                                <td>24 jam (Lapor diri pada hari pertama dibuka pukul 08:00 dan hari terakhir ditutup pukul 14:00)</td>
+                                                <td>Daftar Kembali</td>
+                                                <td>Selasa-Kamis (18 Juni s.d 20 Juni 2024)</td>
+                                                <td>Buka Tgl. 18 Juni 2024 pukul 08.00 Wita  dan Tutup Tgl. 20 Juni 2024 pukul 13.00 Wita</td>
                                             </tr>
                                         </tbody>
                                     </table>
@@ -106,43 +95,32 @@
                                         <h3 class="text-center mb-4">Jadwal PPDB Jalur Afirmasi</h3>
                                             <table class="table table-bordered text-center">
                                                 <thead>
-                                                <tr style="background-color: #28a745; color: #ffffff;">
+                                                <tr style="background-color: #c73737; color: #ffffff;">
                                                     <th>Kegiatan</th>
-                                                    <th>Lokasi</th>
                                                     <th>Hari/Tanggal</th>
                                                     <th>Waktu</th>
                                                 </tr>
                                                 </thead>
                                         <tbody>
                                             <tr>
-                                                <td>Pengajuan Akun</td>
-                                                <td>Online</td>
-                                                <td>19 Mei - 14 Juni 2024</td>
-                                                <td>24 jam (Ajuan Akun dibuka pukul 08:00 dan ditutup pukul 12:00 di hari terakhir) </td>
+                                                <td>Pendaftaran</td>
+                                                <td>Senin-Rabu (3 Juni s.d 5 Juni 2024)</td>
+                                                <td>Buka Tgl. 3 Juni 2024 pukul 08.00 Wita dan Tutup Tgl. 5 Juni 2024 pukul 13.00 Wita </td>
                                             </tr>
                                             <tr>
-                                                <td>Pendaftaran dan Pemilihan Sekolah</td>
-                                                <td>Online</td>
-                                                <td>12 - 14 Juni 2024</td>
-                                                <td>24 jam (Pendaftaran hari peratama dibuka pukul 08:00 dan hari terakhir ditutup pukul 14:00)</td>
-                                            </tr>
-                                            <tr>
-                                                <td>Proses Seleksi</td>
-                                                <td>Online</td>
-                                                <td>12 - 14 Juni 2024</td>
-                                                <td>24 jam (Seleksi pada hari pertama dibuka pukul 08:00 dan hari terakhir ditutup pukul 14:00)</td>
+                                                <td>Verifikasi </td>
+                                                <td>Senin-Rabu (3 Juni s.d 5 Juni 2024) </td>
+                                                <td>Buka Tgl. 3 Juni 2024 pukul 08.00 Wita dan Tutup Tgl. 5 Juni 2024 pukul 13.00 Wita </td>
                                             </tr>
                                             <tr>
                                                 <td>Pengumuman</td>
-                                                <td>Ruang Pendaftaran</td>
-                                                <td>14 Juni 2024</td>
-                                                <td>17:00 WIB</td>
+                                                <td> Jumat 7 Juni 2024</td>
+                                                <td>Pukul 08.00 Wita</td>
                                             </tr>
                                             <tr>
-                                                <td>Lapor Diri</td>
-                                                <td>Sekolah Tujuan</td>
-                                                <td>15 - 16 Juni 2024</td>
-                                                <td>24 jam (Lapor diri pada hari pertama dibuka pukul 08:00 dan hari terakhir ditutup pukul 14:00)</td>
+                                                <td>Daftar Kembali</td>
+                                                <td>Selasa-Kamis (18 Juni s.d 20 Juni 2024) </td>
+                                                <td>Buka Tgl. 18 Juni 2024 pukul 08.00 Wita dan Tutup Tgl. 20 Juni 2024 pukul 13.00 Wita</td>
                                             </tr>
                                         </tbody>
                                     </table>
@@ -155,43 +133,32 @@
                                         <h3 class="text-center mb-4">Jadwal PPDB Jalur Perpindahan Tugas</h3>
                                             <table class="table table-bordered text-center">
                                                 <thead>
-                                                <tr style="background-color: #28a745; color: #ffffff;">
+                                                <tr style="background-color: #c73737; color: #ffffff;">
                                                     <th>Kegiatan</th>
-                                                    <th>Lokasi</th>
                                                     <th>Hari/Tanggal</th>
                                                     <th>Waktu</th>
                                                 </tr>
                                                 </thead>
                                         <tbody>
                                             <tr>
-                                                <td>Pengajuan Akun</td>
-                                                <td>Online</td>
-                                                <td>19 Mei - 14 Juni 2024</td>
-                                                <td>24 jam (Ajuan Akun dibuka pukul 08:00 dan ditutup pukul 12:00 di hari terakhir) </td>
+                                                <td>Pendaftaran</td>
+                                                <td>Senin-Rabu (3 Juni s.d 5 Juni 2024) </td>
+                                                <td>Buka Tgl. 3 Juni 2024 pukul 08.00 Wita dan Tutup Tgl. 5 Juni 2024 pukul 13.00 Wita </td>
                                             </tr>
                                             <tr>
-                                                <td>Pendaftaran dan Pemilihan Sekolah</td>
-                                                <td>Online</td>
-                                                <td>12 - 14 Juni 2024</td>
-                                                <td>24 jam (Pendaftaran hari peratama dibuka pukul 08:00 dan hari terakhir ditutup pukul 14:00)</td>
-                                            </tr>
-                                            <tr>
-                                                <td>Proses Seleksi</td>
-                                                <td>Online</td>
-                                                <td>12 - 14 Juni 2024</td>
-                                                <td>24 jam (Seleksi pada hari pertama dibuka pukul 08:00 dan hari terakhir ditutup pukul 14:00)</td>
+                                                <td>Verifikasi</td>
+                                                <td>Senin-Rabu (3 Juni s.d 5 Juni 2024)</td>
+                                                <td>Buka Tgl. 3 Juni 2024 pukul 08.00 Wita  dan Tutup Tgl. 5 Juni 2024 pukul 13.00 Wita</td>
                                             </tr>
                                             <tr>
                                                 <td>Pengumuman</td>
-                                                <td>Ruang Pendaftaran</td>
-                                                <td>14 Juni 2024</td>
-                                                <td>17:00 WIB</td>
+                                                <td>Jumat 7 Juni 2024</td>
+                                                <td>Pukul 08.00 Wita</td>
                                             </tr>
                                             <tr>
-                                                <td>Lapor Diri</td>
-                                                <td>Sekolah Tujuan</td>
-                                                <td>15 - 16 Juni 2024</td>
-                                                <td>24 jam (Lapor diri pada hari pertama dibuka pukul 08:00 dan hari terakhir ditutup pukul 14:00)</td>
+                                                <td>Daftar Kembali</td>
+                                                <td>Selasa-Kamis (18 Juni s.d 20 Juni 2024) </td>
+                                                <td>Buka Tgl. 18 Juni 2024 pukul 08.00 Wita  dan Tutup Tgl. 20 Juni 2024 pukul 13.00 Wita</td>
                                             </tr>
                                         </tbody>
                                     </table>
@@ -205,43 +172,32 @@
                                         <h3 class="text-center mb-4">Jadwal PPDB Jalur Rapor dan Prestasi</h3>
                                             <table class="table table-bordered text-center">
                                                 <thead>
-                                                <tr style="background-color: #28a745; color: #ffffff;">
+                                                <tr style="background-color: #c73737; color: #ffffff;">
                                                     <th>Kegiatan</th>
-                                                    <th>Lokasi</th>
                                                     <th>Hari/Tanggal</th>
                                                     <th>Waktu</th>
                                                 </tr>
                                                 </thead>
                                         <tbody>
                                             <tr>
-                                                <td>Pengajuan Akun</td>
-                                                <td>Online</td>
-                                                <td>19 Mei - 14 Juni 2024</td>
-                                                <td>24 jam (Ajuan Akun dibuka pukul 08:00 dan ditutup pukul 12:00 di hari terakhir) </td>
+                                                <td>Pendaftaran</td>
+                                                <td>Senin-Rabu (3 Juni s.d 5 Juni 2024) </td>
+                                                <td>Buka Tgl. 3 Juni 2024 pukul 08.00 Wita dan Tutup Tgl. 5 Juni 2024 pukul 13.00 Wita </td>
                                             </tr>
                                             <tr>
-                                                <td>Pendaftaran dan Pemilihan Sekolah</td>
-                                                <td>Online</td>
-                                                <td>12 - 14 Juni 2024</td>
-                                                <td>24 jam (Pendaftaran hari peratama dibuka pukul 08:00 dan hari terakhir ditutup pukul 14:00)</td>
-                                            </tr>
-                                            <tr>
-                                                <td>Proses Seleksi</td>
-                                                <td>Online</td>
-                                                <td>12 - 14 Juni 2024</td>
-                                                <td>24 jam (Seleksi pada hari pertama dibuka pukul 08:00 dan hari terakhir ditutup pukul 14:00)</td>
+                                                <td>Verifikasi</td>
+                                                <td>Senin-Rabu (3 Juni s.d 5 Juni 2024) </td>
+                                                <td>Buka Tgl. 3 Juni 2024 pukul 08.00 Wita  dan Tutup Tgl. 5 Juni 2024 pukul 13.00 Wita</td>
                                             </tr>
                                             <tr>
                                                 <td>Pengumuman</td>
-                                                <td>Ruang Pendaftaran</td>
-                                                <td>14 Juni 2024</td>
-                                                <td>17:00 WIB</td>
+                                                <td>Jumat 7 Juni 2024 </td>
+                                                <td>Pukul 08.00 Wita</td>
                                             </tr>
                                             <tr>
-                                                <td>Lapor Diri</td>
-                                                <td>Sekolah Tujuan</td>
-                                                <td>15 - 16 Juni 2024</td>
-                                                <td>24 jam (Lapor diri pada hari pertama dibuka pukul 08:00 dan hari terakhir ditutup pukul 14:00)</td>
+                                                <td>Daftar Kembali</td>
+                                                <td>Selasa-Kamis (18 Juni s.d 20 Juni 2024) </td>
+                                                <td>Buka Tgl. 18 Juni 2024 pukul 08.00 Wita dan Tutup Tgl. 20 Juni 2024 pukul 13.00 Wita </td>
                                             </tr>
                                         </tbody>
                                     </table>

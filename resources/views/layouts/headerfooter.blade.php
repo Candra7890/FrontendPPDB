@@ -94,9 +94,12 @@
                 <div class="row">
 
                     <div class="col-lg-3 col-12 mb-4 pb-2">
-                        <a class="navbar-brand" href="/topiclist/index.html">
-                            <img src="/topiclist/images/OIP__15_-removebg-preview.png" style="width: 100px; height: 100;">
-                                <span>PPDB</span>
+                        <a class="navbar-brand d-flex align-items-center" href="/topiclist/index.html">
+                            <img class="mr-2" src="/topiclist/images/OIP__15_-removebg-preview.png" style="width: 100px; height: 100;">
+                            <div>
+                                <span>PPDB</span><br>
+                                <span>TABANAN</span>
+                            </div>
                         </a>
                     </div>
 

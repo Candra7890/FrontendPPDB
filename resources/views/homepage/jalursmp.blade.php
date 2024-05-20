@@ -28,19 +28,19 @@
         <div class="row">
             <ul class="nav nav-tabs" id="myTab" role="tablist">
                 <li class="nav-item" role="presentation">
-                    <button class="nav-link active" id="design-tab" data-bs-toggle="tab" data-bs-target="#design-tab-pane" type="button" role="tab" aria-controls="design-tab-pane" aria-selected="true">Jalur Zonasi</button>
+                    <button class="nav-link active" id="design-tab" data-bs-toggle="tab" data-bs-target="#design-tab-pane" type="button" role="tab" aria-controls="design-tab-pane" aria-selected="true">Jalur Afirmasi</button>
                 </li>
 
                 <li class="nav-item" role="presentation">
-                    <button class="nav-link" id="marketing-tab" data-bs-toggle="tab" data-bs-target="#marketing-tab-pane" type="button" role="tab" aria-controls="marketing-tab-pane" aria-selected="false">Jalur Afirmasi</button>
+                    <button class="nav-link" id="marketing-tab" data-bs-toggle="tab" data-bs-target="#marketing-tab-pane" type="button" role="tab" aria-controls="marketing-tab-pane" aria-selected="false">Jalur Perpindahan Tugas</button>
                 </li>
 
                 <li class="nav-item" role="presentation">
-                    <button class="nav-link" id="finance-tab" data-bs-toggle="tab" data-bs-target="#finance-tab-pane" type="button" role="tab" aria-controls="finance-tab-pane" aria-selected="false">Jalur Perpindahan Tugas</button>
+                    <button class="nav-link" id="finance-tab" data-bs-toggle="tab" data-bs-target="#finance-tab-pane" type="button" role="tab" aria-controls="finance-tab-pane" aria-selected="false">Jalur Prestasi/Rapor</button>
                 </li>
 
                 <li class="nav-item" role="presentation">
-                    <button class="nav-link" id="music-tab" data-bs-toggle="tab" data-bs-target="#music-tab-pane" type="button" role="tab" aria-controls="music-tab-pane" aria-selected="false">Jalur Rapor dan Prestasi</button>
+                    <button class="nav-link" id="music-tab" data-bs-toggle="tab" data-bs-target="#music-tab-pane" type="button" role="tab" aria-controls="music-tab-pane" aria-selected="false">Jalur Zonasi</button>
                 </li>
             </ul>
         </div>
@@ -54,7 +54,7 @@
                         <div class="row justify-content-center">
                             <div class="col-lg-10 col-md-12 mb-8">
                                 <div class="custom-block bg-white shadow-lg">
-                                    <img src="/topiclist/images/Rapor SMA.jpg" class="custom-block-image img-fluid" style="max-width: 100%; height: 100%;" alt=""> 
+                                    <img src="/topiclist/images/WhatsApp Image 2024-05-20 at 8.48.22 PM.jpeg" class="custom-block-image img-fluid" style="max-width: 100%; height: 100%;" alt=""> 
                                 </div>
                             </div>
                         </div>
@@ -64,7 +64,7 @@
                         <div class="row justify-content-center">
                             <div class="col-lg-10 col-md-12 mb-8">
                                 <div class="custom-block bg-white shadow-lg">
-                                    <img src="/topiclist/images/ketm 2023.jpg" class="custom-block-image img-fluid" style="max-width: 100%; height: 100%;" alt=""> 
+                                    <img src="/topiclist/images/WhatsApp Image 2024-05-20 at 8.49.40 PM.jpeg" class="custom-block-image img-fluid" style="max-width: 100%; height: 100%;" alt=""> 
                                 </div>
                             </div>
                         </div>
@@ -74,7 +74,7 @@
                         <div class="row justify-content-center">
                             <div class="col-lg-10 col-md-12 mb-8">
                                 <div class="custom-block bg-white shadow-lg">
-                                    <img src="/topiclist/images/Zonasi_page-0001.jpg" class="custom-block-image img-fluid" style="max-width: 100%; height: 100%;" alt=""> 
+                                    <img src="/topiclist/images/WhatsApp Image 2024-05-20 at 9.00.47 PM.jpeg" class="custom-block-image img-fluid" style="max-width: 100%; height: 100%;" alt=""> 
                                 </div>
                             </div>
                         </div>
@@ -84,7 +84,7 @@
                         <div class="row justify-content-center">
                             <div class="col-lg-10 col-md-12 mb-8">
                                 <div class="custom-block bg-white shadow-lg">
-                                    <img src="/topiclist/images/Tugas Ortu_page-0001.jpg" class="custom-block-image img-fluid" style="max-width: 100%; height: 100%;" alt=""> 
+                                    <img src="/topiclist/images/WhatsApp Image 2024-05-20 at 8.51.17 PM.jpeg" class="custom-block-image img-fluid" style="max-width: 100%; height: 100%;" alt=""> 
                                 </div>
                             </div>
                         </div>
