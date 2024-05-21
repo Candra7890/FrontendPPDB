@@ -144,7 +144,7 @@
                                         <div>
                                             <h5 class="text-white mb-2">Daya Tampung Sekolah</h5>
 
-                                            <p class="text-white">Ingin melihat tentang jumlah daya tampung yang dimiliki oleh tiap sekolah baik itu sekolah SD dan SMP di Kabupaten Tabanan? Mari cek langsung disini!</p>
+                                            <p class="text-white">Ingin melihat tentang jumlah daya tampung yang dimiliki oleh tiap sekolah SMP di Kabupaten Tabanan? Mari cek langsung disini!</p>
 
                                             <a href="/dayatampung" class="btn custom-btn mt-2 mt-lg-3" style="background-color: #FF0000;">Cek Selengkapnya</a>
                                         </div>
