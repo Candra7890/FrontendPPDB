@@ -64,6 +64,8 @@
                             <p>PPDB ini adalah kegiatan wajib dan harus untuk setiap lembaga pendidikan tanpa terkecuali. Pelaksanaan kegiatan ini adalah bentuk dari menjalankan amanah undang-undang dalam mencerdaskan kehidupan bangsa yang tertuang pada pembukaan UUD 1945. 
                             Selain itu kegiatan yang satu ini juga merupakan sebuah ekosistem pendidikan dalam menjaga keberlanjutan generasi peserta didik. Peraturan tentang pelaksanaan PPDB ini juga sudah sangat jelas dimana hal tersebut 
                             bahkan sudah diatur dalam Permendikbud No.51 tahun 2018. Kemudian pada tahun selanjutnya aturan itu disempurnakan dalam Permendikbud No.44 tahun 2019.</p>
+
+                            <p>Untuk Mengetahui mengenai bagaimana sistem pelaksanaan PPDB Kabupaten Tabanan Tahun 2024 ini baik itu berupa mekanisme, alur, persiapan serta persyaratan dokumen, semua informasi tersebut dapat diakses langsung <a href="https://tinyurl.com/PPDBTabanan24" class="text-link"> disini</a></p>
                         </div>
 
                     </div>

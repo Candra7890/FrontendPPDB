@@ -33,6 +33,7 @@
                                 <div class="row">
                                     <div class="col-lg-4 col-md-6 mb-4">
                                         <div class="custom-block bg-white shadow-lg">
+                                            <a href="https://tinyurl.com/PPDBTabanan24">
                                                 <div class="d-flex">
                                                     <div>
                                                         <h5 class="mb-2">Surat Pernyataan Peserta Didik Baru</h5>
@@ -40,11 +41,13 @@
                                                     </div>
                                                     <span class="badge bg-education rounded-pill ms-auto">1</span>
                                                 </div>
-                                            </div>
+                                            </a>
+                                        </div>
                                     </div>
 
                                     <div class="col-lg-4 col-md-6 mb-4">
                                         <div class="custom-block bg-white shadow-lg">
+                                            <a href="https://tinyurl.com/PPDBTabanan24">
                                                 <div class="d-flex">
                                                     <div>
                                                         <h5 class="mb-2">Surat Pernyataan Keabsahan Dokumen Orang Tua/Wali Calon Peserta Didik Baru</h5>
@@ -52,11 +55,13 @@
                                                     </div>
                                                     <span class="badge bg-education rounded-pill ms-auto">2</span>
                                                 </div>
+                                            </a>
                                         </div>
                                     </div>
 
                                     <div class="col-lg-4 col-md-6 mb-4">
                                         <div class="custom-block bg-white shadow-lg">
+                                            <a href="https://tinyurl.com/PPDBTabanan24">
                                                 <div class="d-flex">
                                                     <div>
                                                         <h5 class="mb-2">Surat Pernyataan Daftar Ulang</h5>
@@ -64,12 +69,14 @@
                                                     </div>
                                                     <span class="badge bg-education rounded-pill ms-auto">3</span>
                                                 </div>
+                                            </a>
                                         </div>
                                     </div>
 
 
                                     <div class="col-lg-4 col-md-6 mb-4">
                                         <div class="custom-block bg-white shadow-lg">
+                                            <a href="https://tinyurl.com/PPDBTabanan24">
                                                 <div class="d-flex">
                                                     <div>
                                                         <h5 class="mb-2">Surat Keterangan Penugasan Orang Tua/Wali</h5>
@@ -77,11 +84,13 @@
                                                     </div>
                                                     <span class="badge bg-education rounded-pill ms-auto">4</span>
                                                 </div>
+                                            </a>
                                         </div>
                                     </div>
 
                                     <div class="col-lg-4 col-md-6 mb-4">
                                         <div class="custom-block bg-white shadow-lg">
+                                            <a href="https://tinyurl.com/PPDBTabanan24">
                                                 <div class="d-flex">
                                                     <div>
                                                         <h5 class="mb-2">Surat Keterangan Anak Guru</h5>
@@ -89,12 +98,13 @@
                                                     </div>
                                                     <span class="badge bg-education rounded-pill ms-auto">5</span>
                                                 </div>
+                                            </a>
                                         </div>
                                     </div>
 
                                     <div class="col-lg-4 col-md-6 mb-4">
                                         <div class="custom-block bg-white shadow-lg">
-                                            <a href="https://docs.google.com/document/d/1ja9S1f3Q6dwpf32rTZEkok24R0NUFrsg/edit?usp=sharing&ouid=102612837618442651314&rtpof=true&sd=true">
+                                            <a href="https://tinyurl.com/PPDBTabanan24">
                                                 <div class="d-flex">
                                                     <div>
                                                         <h5 class="mb-2">Surat Keterangan Hasil Belajar</h5>
