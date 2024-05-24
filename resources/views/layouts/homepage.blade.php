@@ -220,7 +220,7 @@
                                                         <div>
                                                             <h5 class="mb-2">PPDB Jalur Zonasi</h5>
 
-                                                            <p class="mb-0"><strong>Klik Disini Untuk Mulai Pendaftaran!</strong></p>
+                                                            <p class="mb-0"><strong>Klik Disini Untuk Melihat Informasi Pendaftaran!</strong></p>
                                                         </div>
                                                         <span class="badge bg-advertising rounded-pill ms-auto" style="padding: 5px 30px;">Non Aktif</span>
                                                     </div>
@@ -242,7 +242,7 @@
                                                             <div>
                                                                 <h5 class="mb-2">PPDB Jalur Afirmasi</h5>
 
-                                                                <p class="mb-0"><strong>Klik Disini Untuk Mulai Pendaftaran!</strong></p>
+                                                                <p class="mb-0"><strong>Klik Disini Untuk Melihat Informasi Pendaftaran!</strong></p>
                                                             </div>
 
                                                             <span class="badge bg-advertising rounded-pill ms-auto" style="padding: 5px 30px;">Non Aktif</span>
@@ -264,7 +264,7 @@
                                                             <div>
                                                                 <h5 class="mb-2">PPDB Jalur Perpindahan Tugas</h5>
 
-                                                                <p class="mb-0"><strong>Klik Disini Untuk Mulai Pendaftaran!</strong></p>
+                                                                <p class="mb-0"><strong>Klik Disini Untuk Melihat Informasi Pendaftaran!</strong></p>
                                                             </div>
 
                                                             <span class="badge bg-advertising rounded-pill ms-auto" style="padding: 5px 30px;">Non Aktif</span>
@@ -285,7 +285,7 @@
                                                     <div class="d-flex justify-content-center align-items-center">
                                                         <div>
                                                             <h5 class="mb-2">PPDB Jalur Rapor dan Prestasi</h5>
-                                                            <p class="mb-0"><strong>Klik Disini Untuk Mulai Pendaftaran!</strong></p>
+                                                            <p class="mb-0"><strong>Klik Disini Untuk Melihat Informasi Pendaftaran!</strong></p>
                                                         </div>
                                                         <span class="badge bg-advertising rounded-pill ms-auto" style="padding: 5px 30px;">Non Aktif</span>
                                                     </div>
