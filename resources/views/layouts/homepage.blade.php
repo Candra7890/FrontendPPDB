@@ -41,7 +41,7 @@
         <main>
             <nav class="navbar navbar-expand-lg">
                 <div class="container">
-                    <a class="navbar-brand" href="/topiclist/index.html">
+                    <a class="navbar-brand" href="/">
                     <img src="/topiclist/images/OIP__15_-removebg-preview.png" style="width: 100px; height: 100;">
                         <span style="color: #FFFFFF;">PPDB TABANAN</span>
                     </a>
