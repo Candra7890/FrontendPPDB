@@ -17,7 +17,8 @@ class AuthenticatedSessionController extends Controller
      */
     public function create(): View
     {
-        return view('auth.login');
+        $url = 'https://tabanan-frontend.ppdb-online.web.id/login';
+        return redirect ('auth.login');
     }
 
     /**
