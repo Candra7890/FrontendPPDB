@@ -37,8 +37,6 @@ Route::resource('desa', \App\Http\Controllers\MDesaController::class)->middlewar
 Route::resource('banjar', \App\Http\Controllers\MBanjarController::class)->middleware('auth');
 
 //auth user
-Route::get('login_siswa', [SiswaController::class, 'login_siswa']);
-Route::get('register_siswa', [SiswaController::class, 'register_siswa']);
 
 //homepage
 Route::get('/', [HomepageController::class, 'index']);
