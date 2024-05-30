@@ -237,8 +237,8 @@
                     <tr>
                         <td style="background-color: #d4edda;">SMP Negeri 1 Tabanan </td>
                         <td style="background-color: #d4edda;">Tabanan</td>
-                        <td style="background-color: #d4edda;">Gst Ayu Aris Widyantari, S.Pd, M.Pd (081239382543)  </td>
-                        <td style="background-color: #d4edda;">Ida Ayu Intan Nandini, S.Pd (087862185816)  </td>
+                        <td style="background-color: #d4edda;">I MADE MURDANA (085237844966)  </td>
+                        <td style="background-color: #d4edda;">NI PUTU SRI YUYUN TERIANA (081999918606)  </td>
                     </tr>
                     <tr>
                         <td>SMP Negeri 2 Tabanan</td>
