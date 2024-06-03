@@ -234,7 +234,7 @@
                                                                 <p class="text-black">Mari cek pendaftaran jalur afirmasi yang sedang berlangsung disini!</p>
                                                             </div>
 
-                                                            <span class="badge bg-advertising rounded-pill ms-auto" style="padding: 5px 30px;">Non Aktif</span>
+                                                            <span class="badge bg-advertising rounded-pill ms-auto" style="padding: 5px 30px;">Aktif</span>
                                                         </div>
 
                                                         <img src="/topiclist/images/topics/undraw_viral_tweet_gndb.png" class="custom-block-image img-fluid mt-3" style="object-fit: cover; width: 100%; height: 100%;" alt="">
@@ -255,7 +255,7 @@
                                                                 <p class="text-black">Mari cek pendaftaran jalur perpindahan tugas ortu/wali yang sedang berlangsung disini!</p>
                                                             </div>
 
-                                                            <span class="badge bg-advertising rounded-pill ms-auto" style="padding: 5px 30px;">Non Aktif</span>
+                                                            <span class="badge bg-advertising rounded-pill ms-auto" style="padding: 5px 30px;">Aktif</span>
                                                         </div>
 
                                                         <img src="/topiclist/images/topics/undraw_Educator_re_ju47.png" class="custom-block-image img-fluid mt-3" style="object-fit: cover; width: 100%; height: 100%;" alt="">
@@ -275,7 +275,7 @@
                                                             <h5 class="mb-2">PPDB Jalur Rapor dan Prestasi</h5>
                                                             <p class="text-black">Mari cek pendaftaran jalur rapor dan prestasi yang sedang berlangsung disini!</p>
                                                         </div>
-                                                        <span class="badge bg-advertising rounded-pill ms-auto" style="padding: 5px 30px;">Non Aktif</span>
+                                                        <span class="badge bg-advertising rounded-pill ms-auto" style="padding: 5px 30px;">Aktif</span>
                                                     </div>
                                                     <img src="/topiclist/images/topics/undraw_Group_video_re_btu7.png" class="custom-block-image img-fluid mt-3" style="object-fit: cover; width: 100%; height: 100%;" alt="">
                                                 </a>
