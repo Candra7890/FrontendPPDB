@@ -195,7 +195,7 @@
                     <tr>
                         <td style="text-align: center; vertical-align: middle;">12 </td>
                         <td style="text-align: center; vertical-align: middle;">SMP Negeri 5 Kediri </td>
-                        <td style="text-align: center; vertical-align: middle;">83</td>
+                        <td style="text-align: center; vertical-align: middle;">84</td>
                         <td style="text-align: center; vertical-align: middle;">19</td>
                         <td style="text-align: center; vertical-align: middle;">6</td>
                         <td style="text-align: center; vertical-align: middle;">6 </td>
@@ -344,7 +344,7 @@
                         <tr style="background-color: #d4edda; color: black;">
                         <td style="text-align: center; vertical-align: middle;">23 </td>
                         <td style="text-align: center; vertical-align: middle;">SMP Negeri 4 Pupuan </td>
-                        <td style="text-align: center; vertical-align: middle;">83</td>
+                        <td style="text-align: center; vertical-align: middle;">84</td>
                         <td style="text-align: center; vertical-align: middle;">19</td>
                         <td style="text-align: center; vertical-align: middle;">6</td>
                         <td style="text-align: center; vertical-align: middle;">6 </td>
@@ -371,7 +371,7 @@
                         <tr style="background-color: #d4edda; color: black;">
                         <td style="text-align: center; vertical-align: middle;">25 </td>
                         <td style="text-align: center; vertical-align: middle;">SMP Negeri 6 Pupuan Satu Atap </td>
-                        <td style="text-align: center; vertical-align: middle;">83</td>
+                        <td style="text-align: center; vertical-align: middle;">84</td>
                         <td style="text-align: center; vertical-align: middle;">19</td>
                         <td style="text-align: center; vertical-align: middle;">6</td>
                         <td style="text-align: center; vertical-align: middle;">6 </td>
@@ -452,7 +452,7 @@
                         <tr style="background-color: #d4edda; color: black;">
                         <td style="text-align: center; vertical-align: middle;">31 </td>
                         <td style="text-align: center; vertical-align: middle;">SMP Negeri 2 Selemadeg Timur</td>
-                        <td style="text-align: center; vertical-align: middle;">83</td>
+                        <td style="text-align: center; vertical-align: middle;">84</td>
                         <td style="text-align: center; vertical-align: middle;">19</td>
                         <td style="text-align: center; vertical-align: middle;">6</td>
                         <td style="text-align: center; vertical-align: middle;">6 </td>
@@ -465,7 +465,7 @@
                     <tr>
                         <td style="text-align: center; vertical-align: middle;">32 </td>
                         <td style="text-align: center; vertical-align: middle;">SMP Negeri 3 Selemadeg Timur</td>
-                        <td style="text-align: center; vertical-align: middle;">83</td>
+                        <td style="text-align: center; vertical-align: middle;">84</td>
                         <td style="text-align: center; vertical-align: middle;">19</td>
                         <td style="text-align: center; vertical-align: middle;">6</td>
                         <td style="text-align: center; vertical-align: middle;">6 </td>
