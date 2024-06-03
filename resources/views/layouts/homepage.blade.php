@@ -47,7 +47,7 @@
                     </a>
 
                     <div class="d-lg-none ms-auto me-4">
-                        <a href="#top" class="navbar-icon bi-person smoothscroll"></a>
+                        <a href="https://tabanan-frontend.ppdb-online.web.id" class="navbar-icon bi-person smoothscroll"></a>
                     </div>
     
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -81,7 +81,7 @@
                             </li>
                         </ul>
 
-                        <div class="d-none d-lg-block">
+                        <div class="d-lg-block d-md-block d-sm-block">
                             <a href=" https://tabanan-frontend.ppdb-online.web.id" class="navbar-icon bi-person smoothscroll"></a>
                         </div>
                     </div>
