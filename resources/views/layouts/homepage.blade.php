@@ -32,7 +32,17 @@
         <link rel="tabanan-icon" sizes="72x72" href="/topiclist/images/OIP__15_-removebg-preview (1).png">
         <link rel="tabanan-icon" sizes="114x114" href="/topiclist/images/OIP__15_-removebg-preview (2).png">
 
-        
+        <script>
+        function redirectToNISN(event) {
+            event.preventDefault();
+            const nisn = document.getElementById('keyword').value;
+            if (nisn) {
+                window.location.href = `https://tabanan-frontend.ppdb/ceknisn?nisn=${encodeURIComponent(nisn)}`;
+            } else {
+                alert('Please enter a NISN.');
+            }
+        }
+        </script>
 
     </head>
     
@@ -97,7 +107,16 @@
                             <h1 class="text-white text-center">Cepat. Aman. Terpadu</h1>
 
                             <h6 class="text-center" style="color: #FFFFFF;">Situs ini dipersiapkan sebagai pusat informasi dan pengolahan seleksi data siswa peserta PPDB Kabupaten Tabanan Periode 2024 / 2025</h6>
+
+                            <form method="get" class="custom-form mt-4 pt-2 mb-lg-0 mb-5" role="search" onsubmit="redirectToNISN(event)">
+                                <div class="input-group input-group-lg">
+                                    <span class="input-group-text bi-search" id="basic-addon1"></span>
+                                    <input name="keyword" type="search" class="form-control" id="keyword" placeholder="Cek Pendaftaran Dengan NISN ..." aria-label="Search">
+                                    <button type="submit" class="form-control" style="background-color: #FF0000;">Cek</button>
+                                </div>
+                            </form>
                         </div>
+
                     </div>
                 </div>
             </section>
