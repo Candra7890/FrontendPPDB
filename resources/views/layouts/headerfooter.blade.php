@@ -58,7 +58,7 @@
                             </li>
 
                             <li class="nav-item">
-                                <a class="nav-link click-scroll" href="#section_2">Pendaftaran</a>
+                                <a class="nav-link click-scroll" href="/">Pendaftaran</a>
                             </li>
     
                             <li class="nav-item">
