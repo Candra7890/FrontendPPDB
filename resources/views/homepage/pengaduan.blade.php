@@ -141,7 +141,7 @@
                     <tr>
                         <td style="background-color: #d4edda;">SMP Negeri 1 Penebel </td>
                         <td style="background-color: #d4edda;">Tabanan</td>
-                        <td style="background-color: #d4edda;">Ni Gusti Ayu Made Sri Evariani, SE., M.Pd (087774225120) </td>
+                        <td style="background-color: #d4edda;">I MADE ARYA WINATA, S.Pd. (081916121717) </td>
                         <td style="background-color: #d4edda;">GT. Adiwibawa (0818358425)</td>
                     </tr>
                     <tr>
