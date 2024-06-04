@@ -37,7 +37,7 @@
             event.preventDefault();
             const nisn = document.getElementById('keyword').value;
             if (nisn) {
-                window.location.href = `https://tabanan-frontend.ppdb/ceknisn?nisn=${encodeURIComponent(nisn)}`;
+                window.location.href = `https://tabanan-frontend.ppdb-online.web.id/ceknisn?nisn=${encodeURIComponent(nisn)}`;
             } else {
                 alert('Please enter a NISN.');
             }
