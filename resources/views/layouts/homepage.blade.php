@@ -39,7 +39,7 @@
             if (nisn) {
                 window.location.href = `https://tabanan-frontend.ppdb-online.web.id/ceknisn?nisn=${encodeURIComponent(nisn)}`;
             } else {
-                alert('Please enter a NISN.');
+                alert('Mohon masukkan nomor NISN!');
             }
         }
         </script>
