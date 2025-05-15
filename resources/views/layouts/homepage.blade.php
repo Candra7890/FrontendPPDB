@@ -246,7 +246,7 @@
                                     <div class="row justify-content-center">
                                         <div class="col-lg-8 col-md-10 col-12 mb-4 mb-lg-0">
                                                 <div class="custom-block bg-white shadow-lg">
-                                                    <a href="https://tabanan-frontend.ppdb-online.web.id/pengumuman">
+                                                    <a href="/">
                                                         <div class="d-flex justify-content-center align-items-center">
                                                             <div>
                                                                 <h5 class="mb-2">PPDB Jalur Afirmasi</h5>
@@ -267,7 +267,7 @@
                                     <div class="row justify-content-center">
                                         <div class="col-lg-8 col-md-10 col-12 mb-4 mb-lg-0">
                                                 <div class="custom-block bg-white shadow-lg">
-                                                    <a href="https://tabanan-frontend.ppdb-online.web.id/pengumuman">
+                                                    <a href="/">
                                                         <div class="d-flex justify-content-center align-items-center">
                                                             <div>
                                                                 <h5 class="mb-2">PPDB Jalur Mutasi</h5>
@@ -288,7 +288,7 @@
                                     <div class="row justify-content-center">
                                         <div class="col-lg-8 col-md-10 col-12 mb-4 mb-lg-0">
                                             <div class="custom-block bg-white shadow-lg">
-                                                <a href="https://tabanan-frontend.ppdb-online.web.id/pengumuman">
+                                                <a href="/">
                                                     <div class="d-flex justify-content-center align-items-center">
                                                         <div>
                                                             <h5 class="mb-2">PPDB Jalur Prestasi</h5>
