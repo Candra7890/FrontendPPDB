@@ -32,15 +32,15 @@
                 </li>
 
                 <li class="nav-item" role="presentation">
-                    <button class="nav-link" id="marketing-tab" data-bs-toggle="tab" data-bs-target="#marketing-tab-pane" type="button" role="tab" aria-controls="marketing-tab-pane" aria-selected="false">Jalur Perpindahan Tugas</button>
+                    <button class="nav-link" id="marketing-tab" data-bs-toggle="tab" data-bs-target="#marketing-tab-pane" type="button" role="tab" aria-controls="marketing-tab-pane" aria-selected="false">Jalur Mutasi</button>
                 </li>
 
                 <li class="nav-item" role="presentation">
-                    <button class="nav-link" id="finance-tab" data-bs-toggle="tab" data-bs-target="#finance-tab-pane" type="button" role="tab" aria-controls="finance-tab-pane" aria-selected="false">Jalur Prestasi/Rapor</button>
+                    <button class="nav-link" id="finance-tab" data-bs-toggle="tab" data-bs-target="#finance-tab-pane" type="button" role="tab" aria-controls="finance-tab-pane" aria-selected="false">Jalur Prestasi</button>
                 </li>
 
                 <li class="nav-item" role="presentation">
-                    <button class="nav-link" id="music-tab" data-bs-toggle="tab" data-bs-target="#music-tab-pane" type="button" role="tab" aria-controls="music-tab-pane" aria-selected="false">Jalur Zonasi</button>
+                    <button class="nav-link" id="music-tab" data-bs-toggle="tab" data-bs-target="#music-tab-pane" type="button" role="tab" aria-controls="music-tab-pane" aria-selected="false">Jalur Domisili</button>
                 </li>
             </ul>
         </div>
@@ -54,7 +54,7 @@
                         <div class="row justify-content-center">
                             <div class="col-lg-10 col-md-12 mb-8">
                                 <div class="custom-block bg-white shadow-lg">
-                                    <img src="/topiclist/images/WhatsApp Image 2024-05-20 at 8.48.22 PM.jpeg" class="custom-block-image img-fluid" style="max-width: 100%; height: 100%;" alt=""> 
+                                    <img src="/topiclist/images/Afirmasi.jpg" class="custom-block-image img-fluid" style="max-width: 100%; height: auto; object-fit: contain;" alt=""> 
                                 </div>
                             </div>
                         </div>
@@ -64,7 +64,7 @@
                         <div class="row justify-content-center">
                             <div class="col-lg-10 col-md-12 mb-8">
                                 <div class="custom-block bg-white shadow-lg">
-                                    <img src="/topiclist/images/WhatsApp Image 2024-05-20 at 8.49.40 PM.jpeg" class="custom-block-image img-fluid" style="max-width: 100%; height: 100%;" alt=""> 
+                                    <img src="/topiclist/images/Mutasi.jpg" class="custom-block-image img-fluid" style="max-width: 100%; height: auto; object-fit: contain;" alt=""> 
                                 </div>
                             </div>
                         </div>
@@ -74,7 +74,7 @@
                         <div class="row justify-content-center">
                             <div class="col-lg-10 col-md-12 mb-8">
                                 <div class="custom-block bg-white shadow-lg">
-                                    <img src="/topiclist/images/WhatsApp Image 2024-05-20 at 9.00.47 PM.jpeg" class="custom-block-image img-fluid" style="max-width: 100%; height: 100%;" alt=""> 
+                                    <img src="/topiclist/images/Prestasi.jpg" class="custom-block-image img-fluid" style="max-width: 100%; height: auto; object-fit: contain;" alt="">
                                 </div>
                             </div>
                         </div>
@@ -84,7 +84,7 @@
                         <div class="row justify-content-center">
                             <div class="col-lg-10 col-md-12 mb-8">
                                 <div class="custom-block bg-white shadow-lg">
-                                    <img src="/topiclist/images/WhatsApp Image 2024-05-20 at 8.51.17 PM.jpeg" class="custom-block-image img-fluid" style="max-width: 100%; height: 100%;" alt=""> 
+                                    <img src="/topiclist/images/Domisili.jpg" class="custom-block-image img-fluid" style="max-width: 100%; height: auto; object-fit: contain;" alt=""> 
                                 </div>
                             </div>
                         </div>

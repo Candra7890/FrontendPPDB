@@ -28,10 +28,10 @@
 <div class="container mt-5">
     <h2 class="text-center mb-4">Pengaduan Pelaksanaan PPDB</h2>
     <p class="text-center mb-5">Halaman ini menyediakan informasi terkait hotline pengaduan untuk masyarakat apabila menemukan masalah, pertanyaan maupun Kejanggalan
-                                terhadap pelaksanaan PPDB Kabupaten Tabanan Tahun 2024.</p>
+                                terhadap pelaksanaan PPDB Kabupaten Tabanan Tahun 2025.</p>
     <div class="row">
         <div class="table-responsive">
-            <h3 class="text-center mb-4">Hotline PPDB 2024</h3>
+            <h3 class="text-center mb-4">Hotline PPDB 2025</h3>
             <table class="table table-bordered text-center">
                 <thead>
                     <tr style="background-color: #c73737; color: #ffffff;">

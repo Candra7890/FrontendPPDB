@@ -33,7 +33,7 @@ Route::resource('banjar', \App\Http\Controllers\MBanjarController::class)->middl
 //homepage
 Route::get('/', [HomepageController::class, 'index']);
 Route::get('/pengertian', [HomepageController::class, 'pengertian']);
-Route::get('/berita', [HomepageController::class, 'berita']);
+// Route::get('/berita', [HomepageController::class, 'berita']);
 Route::get('/pengaduan', [HomepageController::class, 'pengaduan']);
 Route::get('/dayatampung', [HomepageController::class, 'dayatampung']);
 Route::get('/dokumen', [HomepageController::class, 'dokumen']);

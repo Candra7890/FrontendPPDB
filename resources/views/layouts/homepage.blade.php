@@ -8,7 +8,7 @@
         <meta name="author" content="">
 
         <title>
-            @yield('title', 'PPDB Tabanan 2024')
+            @yield('title', 'PPDB Tabanan 2025')
         </title>
 
         <!-- CSS FILES -->        
@@ -106,7 +106,7 @@
                         <div class="col-lg-8 col-12 mx-auto">
                             <h1 class="text-white text-center">Cepat. Aman. Terpadu</h1>
 
-                            <h6 class="text-center" style="color: #FFFFFF;">Situs ini dipersiapkan sebagai pusat informasi dan pengolahan seleksi data siswa peserta PPDB Kabupaten Tabanan Periode 2024 / 2025</h6>
+                            <h6 class="text-center" style="color: #FFFFFF;">Situs ini dipersiapkan sebagai pusat informasi dan pengolahan seleksi data siswa peserta PPDB Kabupaten Tabanan Periode 2025 / 2026</h6>
 
                             <form method="get" class="custom-form mt-4 pt-2 mb-lg-0 mb-5" role="search" onsubmit="redirectToNISN(event)">
                                 <div class="input-group input-group-lg">
@@ -132,7 +132,7 @@
 
                                     <div class="custom-block-overlay-text d-flex" >
                                         <div>
-                                            <h5 class="text-white mb-2">PPDB 2024</h5>
+                                            <h5 class="text-white mb-2">PPDB 2025</h5>
 
                                             <p class="text-white">Apa dari kalian masih bingung dengan apa sih itu istilah PPDB? Yuk mari kita cari tau disini!</p>
 
@@ -172,9 +172,9 @@
 
                                     <div class="custom-block-overlay-text d-flex">
                                         <div>
-                                            <h5 class="text-white mb-2">Jadwal Pelaksanaan PPDB 2024</h5>
+                                            <h5 class="text-white mb-2">Jadwal Pelaksanaan PPDB 2025</h5>
 
-                                            <p class="text-white">Mari cari tau jadwal serta periode lengkap pelaksanaan PPDB Kabupaten Tabanan 2024 disini!</p>
+                                            <p class="text-white">Mari cari tau jadwal serta periode lengkap pelaksanaan PPDB Kabupaten Tabanan 2025 disini!</p>
 
                                             <a href="/periode" class="btn custom-btn mt-2 mt-lg-3" style="background-color: #FF0000;">Cek Selengkapnya</a>
                                         </div>
@@ -191,14 +191,14 @@
 
             <section class="explore-section section-padding" id="section_2">
                         <div class="col-12 text-center">
-                            <h2 class="mb-4">Pendaftaran PPDB 2024</h1>
+                            <h2 class="mb-4">Pendaftaran PPDB 2025</h1>
                         </div>
 
                 <div class="container-fluid">
                     <div class="row">
                         <ul class="nav nav-tabs" id="myTab" role="tablist">
                             <li class="nav-item" role="presentation">
-                                <button class="nav-link active" id="design-tab" data-bs-toggle="tab" data-bs-target="#design-tab-pane" type="button" role="tab" aria-controls="design-tab-pane" aria-selected="true">PPDB Jalur Zonasi</button>
+                                <button class="nav-link active" id="design-tab" data-bs-toggle="tab" data-bs-target="#design-tab-pane" type="button" role="tab" aria-controls="design-tab-pane" aria-selected="true">PPDB Jalur Domisili</button>
                             </li>
 
                             <li class="nav-item" role="presentation">
@@ -206,11 +206,11 @@
                             </li>
 
                             <li class="nav-item" role="presentation">
-                                <button class="nav-link" id="finance-tab" data-bs-toggle="tab" data-bs-target="#finance-tab-pane" type="button" role="tab" aria-controls="finance-tab-pane" aria-selected="false">PPDB Jalur Perpindahan Tugas</button>
+                                <button class="nav-link" id="finance-tab" data-bs-toggle="tab" data-bs-target="#finance-tab-pane" type="button" role="tab" aria-controls="finance-tab-pane" aria-selected="false">PPDB Jalur Mutasi</button>
                             </li>
 
                             <li class="nav-item" role="presentation">
-                                <button class="nav-link" id="music-tab" data-bs-toggle="tab" data-bs-target="#music-tab-pane" type="button" role="tab" aria-controls="music-tab-pane" aria-selected="false">PPDB Jalur Rapor dan Prestasi</button>
+                                <button class="nav-link" id="music-tab" data-bs-toggle="tab" data-bs-target="#music-tab-pane" type="button" role="tab" aria-controls="music-tab-pane" aria-selected="false">PPDB Jalur Prestasi</button>
                             </li>
                         </ul>
                     </div>
@@ -228,8 +228,8 @@
                                                 <a href="/">
                                                     <div class="d-flex justify-content-center align-items-center">
                                                         <div>
-                                                            <h5 class="mb-2">PPDB Jalur Zonasi</h5>
-                                                            <p class="text-black">Mari cek pendaftaran jalur zonasi yang sedang berlangsung disini!</p>
+                                                            <h5 class="mb-2">PPDB Jalur Domisili</h5>
+                                                            <p class="text-black">Mari cek pendaftaran jalur domisili yang sedang berlangsung disini!</p>
                                                         </div>
                                                         <span class="badge bg-advertising rounded-pill ms-auto" style="padding: 5px 30px;">Non Aktif</span>
                                                     </div>
@@ -253,7 +253,7 @@
                                                                 <p class="text-black">Mari cek pendaftaran jalur afirmasi yang sedang berlangsung disini!</p>
                                                             </div>
 
-                                                            <span class="badge bg-advertising rounded-pill ms-auto" style="padding: 5px 30px;">Aktif</span>
+                                                            <span class="badge bg-advertising rounded-pill ms-auto" style="padding: 5px 30px;">Non Aktif</span>
                                                         </div>
 
                                                         <img src="/topiclist/images/topics/undraw_viral_tweet_gndb.png" class="custom-block-image img-fluid mt-3" style="object-fit: cover; width: 100%; height: 100%;" alt="">
@@ -270,11 +270,11 @@
                                                     <a href="https://tabanan-frontend.ppdb-online.web.id/pengumuman">
                                                         <div class="d-flex justify-content-center align-items-center">
                                                             <div>
-                                                                <h5 class="mb-2">PPDB Jalur Perpindahan Tugas</h5>
-                                                                <p class="text-black">Mari cek pendaftaran jalur perpindahan tugas ortu/wali yang sedang berlangsung disini!</p>
+                                                                <h5 class="mb-2">PPDB Jalur Mutasi</h5>
+                                                                <p class="text-black">Mari cek pendaftaran jalur mutasi yang sedang berlangsung disini!</p>
                                                             </div>
 
-                                                            <span class="badge bg-advertising rounded-pill ms-auto" style="padding: 5px 30px;">Aktif</span>
+                                                            <span class="badge bg-advertising rounded-pill ms-auto" style="padding: 5px 30px;">Non Aktif</span>
                                                         </div>
 
                                                         <img src="/topiclist/images/topics/undraw_Educator_re_ju47.png" class="custom-block-image img-fluid mt-3" style="object-fit: cover; width: 100%; height: 100%;" alt="">
@@ -291,10 +291,10 @@
                                                 <a href="https://tabanan-frontend.ppdb-online.web.id/pengumuman">
                                                     <div class="d-flex justify-content-center align-items-center">
                                                         <div>
-                                                            <h5 class="mb-2">PPDB Jalur Rapor dan Prestasi</h5>
-                                                            <p class="text-black">Mari cek pendaftaran jalur rapor dan prestasi yang sedang berlangsung disini!</p>
+                                                            <h5 class="mb-2">PPDB Jalur Prestasi</h5>
+                                                            <p class="text-black">Mari cek pendaftaran jalur prestasi yang sedang berlangsung disini!</p>
                                                         </div>
-                                                        <span class="badge bg-advertising rounded-pill ms-auto" style="padding: 5px 30px;">Aktif</span>
+                                                        <span class="badge bg-advertising rounded-pill ms-auto" style="padding: 5px 30px;">Non Aktif</span>
                                                     </div>
                                                     <img src="/topiclist/images/topics/undraw_Group_video_re_btu7.png" class="custom-block-image img-fluid mt-3" style="object-fit: cover; width: 100%; height: 100%;" alt="">
                                                 </a>
@@ -329,7 +329,7 @@
                                     <li>
                                         <h4 class="text-white mb-3">Persyaratan Usia Calon Peserta Didik</h4>
 
-                                        <p class="text-white">Berusia paling rendah 6 tahun pada tanggal 1 Juli 2024 (Untuk Sekolah Dasar) serta berusia paling tinggi 15 (lima belas) tahun pada tanggal 1 Juli 2024 (Untuk Sekolah Menengah Pertama)</p>
+                                        <p class="text-white">Berusia paling rendah 6 tahun pada tanggal 1 Juli 2025 (Untuk Sekolah Dasar) serta berusia paling tinggi 15 (lima belas) tahun pada tanggal 1 Juli 2025 (Untuk Sekolah Menengah Pertama)</p>
 
                                         <div class="icon-holder">
                                           <i class="bi-calendar"></i>
@@ -339,7 +339,7 @@
                                     <li>
                                         <h4 class="text-white mb-3">Persyaratan Akta Kelahiran & Kartu Keluarga</h4>
 
-                                        <p class="text-white">Memiliki Akta Kelahiran yang dikeluarkan oleh pihak yang berwenang serta memiliki Kartu Keluarga Kabupaten Tabanan yang dikeluarkan oleh Dinas Kependudukan dan Pencatatan Sipil Kabupaten Tabanan dengan tanggal cetak pertama maksimal tanggal 20 Juni 2023</p>
+                                        <p class="text-white">Memiliki Akta Kelahiran yang dikeluarkan oleh pihak yang berwenang serta memiliki Kartu Keluarga Kabupaten Tabanan yang dikeluarkan oleh Dinas Kependudukan dan Pencatatan Sipil Kabupaten Tabanan dengan tanggal cetak pertama maksimal tanggal 20 Juni 2024</p>
 
                                         <div class="icon-holder">
                                           <i class="bi-book"></i>
@@ -401,7 +401,7 @@
     </section>
 
 
-    <section class="news-section section-padding" id="section_6" style="background-color: #f9f9f9; font-family: 'Roboto', sans-serif;">
+    <!-- <section class="news-section section-padding" id="section_6" style="background-color: #f9f9f9; font-family: 'Roboto', sans-serif;">
         <div class="container">
             <div class="row">
                 <div class="col-12 text-center">
@@ -441,7 +441,7 @@
 
             </div>
         </div>
-    </section>
+    </section> -->
 </main>
 
         <footer class="site-footer section-padding">
@@ -489,7 +489,7 @@
                     </div>
 
                     <div class="col-lg-3 col-md-4 col-12 mt-4 mt-lg-0 ms-auto">
-                        <p class="copyright-text mt-lg-5 mt-4">Copyright © 2024 Dinas Pendidikan Kabupaten Tabanan
+                        <p class="copyright-text mt-lg-5 mt-4">Copyright © 2025 Dinas Pendidikan Kabupaten Tabanan
                     </div>
 
                 </div>

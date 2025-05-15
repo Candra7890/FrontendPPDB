@@ -28,7 +28,7 @@
                     <div class="row">
                         <ul class="nav nav-tabs" id="myTab" role="tablist">
                             <li class="nav-item" role="presentation">
-                                <button class="nav-link active" id="design-tab" data-bs-toggle="tab" data-bs-target="#design-tab-pane" type="button" role="tab" aria-controls="design-tab-pane" aria-selected="true">Jalur Zonasi</button>
+                                <button class="nav-link active" id="design-tab" data-bs-toggle="tab" data-bs-target="#design-tab-pane" type="button" role="tab" aria-controls="design-tab-pane" aria-selected="true">Jalur Prestasi</button>
                             </li>
 
                             <li class="nav-item" role="presentation">
@@ -36,11 +36,11 @@
                             </li>
 
                             <li class="nav-item" role="presentation">
-                                <button class="nav-link" id="finance-tab" data-bs-toggle="tab" data-bs-target="#finance-tab-pane" type="button" role="tab" aria-controls="finance-tab-pane" aria-selected="false">Jalur Perpindahan Tugas</button>
+                                <button class="nav-link" id="finance-tab" data-bs-toggle="tab" data-bs-target="#finance-tab-pane" type="button" role="tab" aria-controls="finance-tab-pane" aria-selected="false">Jalur Mutasi</button>
                             </li>
 
                             <li class="nav-item" role="presentation">
-                                <button class="nav-link" id="music-tab" data-bs-toggle="tab" data-bs-target="#music-tab-pane" type="button" role="tab" aria-controls="music-tab-pane" aria-selected="false">Jalur Rapor dan Prestasi</button>
+                                <button class="nav-link" id="music-tab" data-bs-toggle="tab" data-bs-target="#music-tab-pane" type="button" role="tab" aria-controls="music-tab-pane" aria-selected="false">Jalur Domisili</button>
                             </li>
                         </ul>
                     </div>
@@ -53,7 +53,7 @@
                             <div class="tab-pane fade show active" id="design-tab-pane" role="tabpanel" aria-labelledby="design-tab" tabindex="0">
                                 <div class="row">
                                     <div class="table-responsive">
-                                        <h3 class="text-center mb-4">Jadwal PPDB Jalur Zonasi</h3>
+                                        <h3 class="text-center mb-4">Jadwal PPDB Jalur Prestasi</h3>
                                             <table class="table table-bordered text-center">
                                                 <thead>
                                                 <tr style="background-color: #c73737; color: #ffffff;">
@@ -65,23 +65,28 @@
                                         <tbody>
                                             <tr>
                                                 <td>Pendaftaran</td>
-                                                <td>Senin-Rabu (10 Juni s.d 12 Juni 2024)</td>
-                                                <td>Buka Tgl. 10 Juni 2024 pukul 08.00 Wita dan Tutup Tgl. 12 Juni 2024 pukul 13.00 Wita </td>
+                                                <td>Senin-Rabu (30 Juni s.d 2 Juli 2025)</td>
+                                                <td>Buka Tgl. 30 Juni 2025 pukul 08.00 Wita dan Tutup Tgl. 2 Juli 2025 pukul 14.00 Wita </td>
                                             </tr>
                                             <tr>
                                                 <td>Verifikasi</td>
-                                                <td>Senin-Rabu (10 Juni s.d 12 Juni 2024) </td>
-                                                <td>Buka Tgl. 10 Juni 2024 pukul 08.00 Wita dan Tutup Tgl. 12 Juni 2024 pukul 18.00 Wita</td>
+                                                <td>Senin-Rabu (30 Juni s.d 2 Juli 2025) </td>
+                                                <td>Buka Tgl. 30 Juni 2025 pukul 08.00 Wita dan Tutup Tgl. 2 Juli 2025 pukul 15.00 Wita </td>
                                             </tr>
                                             <tr>
                                                 <td>Pengumuman</td>
-                                                <td>Jumat, 14 Juni 2024</td>
-                                                <td>Pukul 08.00 Wita </td>
+                                                <td>Kamis, 3 Juli 2025</td>
+                                                <td>Pukul 09.00 Wita </td>
                                             </tr>
                                             <tr>
-                                                <td>Daftar Kembali</td>
-                                                <td>Selasa-Kamis (18 Juni s.d 20 Juni 2024)</td>
-                                                <td>Buka Tgl. 18 Juni 2024 pukul 08.00 Wita  dan Tutup Tgl. 20 Juni 2024 pukul 13.00 Wita</td>
+                                                <td>Masa Sanggah</td>
+                                                <td>Jumat, 4 Juli 2025</td>
+                                                <td>Saat jam kerja </td>
+                                            </tr>
+                                            <tr>
+                                                <td>Daftar Ulang</td>
+                                                <td>Senin-Jumat (14 Juli s.d 18 Juli 2025)</td>
+                                                <td>Buka Tgl. 14 Juli 2025 pukul 08.00 Wita  dan Tutup Tgl. 18 Juli 2025 pukul 13.00 Wita</td>
                                             </tr>
                                         </tbody>
                                     </table>
@@ -104,23 +109,28 @@
                                         <tbody>
                                             <tr>
                                                 <td>Pendaftaran</td>
-                                                <td>Senin-Rabu (3 Juni s.d 5 Juni 2024)</td>
-                                                <td>Buka Tgl. 3 Juni 2024 pukul 08.00 Wita dan Tutup Tgl. 5 Juni 2024 pukul 13.00 Wita </td>
+                                                <td>Senin-Rabu (30 Juni s.d 2 Juli 2025)</td>
+                                                <td>Buka Tgl. 30 Juni 2025 pukul 08.00 Wita dan Tutup Tgl. 2 Juli 2025 pukul 14.00 Wita </td>
                                             </tr>
                                             <tr>
                                                 <td>Verifikasi </td>
-                                                <td>Senin-Rabu (3 Juni s.d 5 Juni 2024) </td>
-                                                <td>Buka Tgl. 3 Juni 2024 pukul 08.00 Wita dan Tutup Tgl. 5 Juni 2024 pukul 13.00 Wita </td>
+                                                <td>Senin-Rabu (30 Juni s.d 2 Juli 2025) </td>
+                                                <td>Buka Tgl. 30 Juni 2025 pukul 08.00 Wita dan Tutup Tgl. 2 Juli 2025 pukul 15.00 Wita </td>
                                             </tr>
                                             <tr>
                                                 <td>Pengumuman</td>
-                                                <td> Jumat 7 Juni 2024</td>
-                                                <td>Pukul 08.00 Wita</td>
+                                                <td> Kamis, 3 Juli 2025</td>
+                                                <td>Pukul 09.00 Wita</td>
                                             </tr>
                                             <tr>
-                                                <td>Daftar Kembali</td>
-                                                <td>Selasa-Kamis (18 Juni s.d 20 Juni 2024) </td>
-                                                <td>Buka Tgl. 18 Juni 2024 pukul 08.00 Wita dan Tutup Tgl. 20 Juni 2024 pukul 13.00 Wita</td>
+                                                <td>Masa Sanggah</td>
+                                                <td>Jumat, 4 Juli 2025</td>
+                                                <td>Saat jam kerja</td>
+                                            </tr>
+                                            <tr>
+                                                <td>Daftar Ulang</td>
+                                                <td>Senin-Jumat (14 Juli s.d 18 Juli 2025) </td>
+                                                <td>Buka Tgl. 14 Juli 2025 pukul 08.00 Wita dan Tutup Tgl. 18 Juli 2025 pukul 13.00 Wita</td>
                                             </tr>
                                         </tbody>
                                     </table>
@@ -130,7 +140,7 @@
 
                             <div class="tab-pane fade" id="finance-tab-pane" role="tabpanel" aria-labelledby="finance-tab" tabindex="0">   <div class="row">
                                 <div class="table-responsive">
-                                        <h3 class="text-center mb-4">Jadwal PPDB Jalur Perpindahan Tugas</h3>
+                                        <h3 class="text-center mb-4">Jadwal PPDB Jalur Mutasi</h3>
                                             <table class="table table-bordered text-center">
                                                 <thead>
                                                 <tr style="background-color: #c73737; color: #ffffff;">
@@ -142,23 +152,28 @@
                                         <tbody>
                                             <tr>
                                                 <td>Pendaftaran</td>
-                                                <td>Senin-Rabu (3 Juni s.d 5 Juni 2024) </td>
-                                                <td>Buka Tgl. 3 Juni 2024 pukul 08.00 Wita dan Tutup Tgl. 5 Juni 2024 pukul 13.00 Wita </td>
+                                                <td>Senin-Rabu (30 Juni s.d 2 Juli 2025) </td>
+                                                <td>Buka Tgl. 30 Juni 2025 pukul 08.00 Wita dan Tutup Tgl. 2 Juli 2025 pukul 14.00 Wita </td>
                                             </tr>
                                             <tr>
                                                 <td>Verifikasi</td>
-                                                <td>Senin-Rabu (3 Juni s.d 5 Juni 2024)</td>
-                                                <td>Buka Tgl. 3 Juni 2024 pukul 08.00 Wita  dan Tutup Tgl. 5 Juni 2024 pukul 13.00 Wita</td>
+                                                <td>Senin-Rabu (30 Juni s.d 2 Juli 2025)</td>
+                                                <td>Buka Tgl.  30 Juni 2025 pukul 08.00 Wita dan Tutup Tgl. 2 Juli 2025 pukul 15.00 Wita</td>
                                             </tr>
                                             <tr>
                                                 <td>Pengumuman</td>
-                                                <td>Jumat 7 Juni 2024</td>
-                                                <td>Pukul 08.00 Wita</td>
+                                                <td>Kamis, 3 Juli 2025</td>
+                                                <td>Pukul 09.00 Wita</td>
                                             </tr>
                                             <tr>
-                                                <td>Daftar Kembali</td>
-                                                <td>Selasa-Kamis (18 Juni s.d 20 Juni 2024) </td>
-                                                <td>Buka Tgl. 18 Juni 2024 pukul 08.00 Wita  dan Tutup Tgl. 20 Juni 2024 pukul 13.00 Wita</td>
+                                                <td>Masa Sanggah</td>
+                                                <td>Jumat, 4 Juli 2025</td>
+                                                <td>Saat jam kerja</td>
+                                            </tr>
+                                            <tr>
+                                                <td>Daftar Ulang</td>
+                                                <td>Senin-Jumat (14 Juli s.d 18 Juli 2025) </td>
+                                                <td>Buka Tgl. 14 Juli 2025 pukul 08.00 Wita  dan Tutup Tgl. 18 Juli 2025 pukul 13.00 Wita</td>
                                             </tr>
                                         </tbody>
                                     </table>
@@ -169,7 +184,7 @@
                                 <div class="tab-pane fade" id="music-tab-pane" role="tabpanel" aria-labelledby="music-tab" tabindex="0">
                                     <div class="row">
                                     <div class="table-responsive">
-                                        <h3 class="text-center mb-4">Jadwal PPDB Jalur Rapor dan Prestasi</h3>
+                                        <h3 class="text-center mb-4">Jadwal PPDB Jalur Domisili</h3>
                                             <table class="table table-bordered text-center">
                                                 <thead>
                                                 <tr style="background-color: #c73737; color: #ffffff;">
@@ -181,23 +196,28 @@
                                         <tbody>
                                             <tr>
                                                 <td>Pendaftaran</td>
-                                                <td>Senin-Rabu (3 Juni s.d 5 Juni 2024) </td>
-                                                <td>Buka Tgl. 3 Juni 2024 pukul 08.00 Wita dan Tutup Tgl. 5 Juni 2024 pukul 13.00 Wita </td>
+                                                <td> Senin-Rabu (7 Juli s.d 9 Juli 2025) </td>
+                                                <td>Buka Tgl. 7 Juli 2025 pukul 08.00 Wita dan Tutup Tgl. 9 Juli 2025 pukul 14.00 Wita </td>
                                             </tr>
                                             <tr>
                                                 <td>Verifikasi</td>
-                                                <td>Senin-Rabu (3 Juni s.d 5 Juni 2024) </td>
-                                                <td>Buka Tgl. 3 Juni 2024 pukul 08.00 Wita  dan Tutup Tgl. 5 Juni 2024 pukul 13.00 Wita</td>
+                                                <td>Senin-Rabu (7 Juli s.d 9 Juli 2025)  </td>
+                                                <td>Buka Tgl. 7 Juli 2025 pukul 08.00 Wita  dan Tutup Tgl. 9 Juni 2025 pukul 15.00 Wita</td>
                                             </tr>
                                             <tr>
                                                 <td>Pengumuman</td>
-                                                <td>Jumat 7 Juni 2024 </td>
-                                                <td>Pukul 08.00 Wita</td>
+                                                <td>Kamis, 10 Juli 2025 </td>
+                                                <td>Pukul 09.00 Wita</td>
                                             </tr>
                                             <tr>
-                                                <td>Daftar Kembali</td>
-                                                <td>Selasa-Kamis (18 Juni s.d 20 Juni 2024) </td>
-                                                <td>Buka Tgl. 18 Juni 2024 pukul 08.00 Wita dan Tutup Tgl. 20 Juni 2024 pukul 13.00 Wita </td>
+                                                <td>Masa Sanggah</td>
+                                                <td>Jumat, 11 Juli 2025</td>
+                                                <td>Saat jam kerja</td>
+                                            </tr>
+                                            <tr>
+                                                <td>Daftar Ulang</td>
+                                                <td>Senin-Jumat (14 Juli s.d 18 Juli 2025) </td>
+                                                <td>Buka Tgl. 14 Juli 2025 pukul 08.00 Wita dan Tutup Tgl. 18 Juli 2025 pukul 13.00 Wita </td>
                                             </tr>
                                         </tbody>
                                     </table>
