@@ -1,6 +1,6 @@
 @extends('layouts.headerfooter')
 
-@section('title', 'PPDB')
+@section('title', 'SPMB')
 
 @section('content')
 
@@ -10,8 +10,8 @@
             <div class="col-lg-7 col-12">
                 <div class="mu-contact-area">
                     <div class="mu-title">
-                        <span class="mu-subtitle" style="color: #FFFFFF;">Ingin Mengetahui Lebih Cepat dan Terkini Mengenai Info PPDB?</span>
-                        <h2 style="color: #FFFFFF;">Silahkan Terus Pantengin Berita PPDB disini!</h2>
+                        <span class="mu-subtitle" style="color: #FFFFFF;">Ingin Mengetahui Lebih Cepat dan Terkini Mengenai Info SPMB?</span>
+                        <h2 style="color: #FFFFFF;">Silahkan Terus Pantengin Berita SPMB disini!</h2>
                     </div>
                 </div>
             </div>
@@ -21,11 +21,11 @@
 
 <div class="container mt-5">
     <h2 class="text-center mb-4">Daya Tampung Sekolah</h2>
-    <p class="text-center mb-5">Halaman ini menyediakan informasi terkait daya tampung tiap sekolah di Kabupaten Tabanan untuk membantu calon siswa dan orang tua dalam memilih sekolah yang sesuai dalam proses PPDB,
+    <p class="text-center mb-5">Halaman ini menyediakan informasi terkait daya tampung tiap sekolah di Kabupaten Tabanan untuk membantu calon siswa dan orang tua dalam memilih sekolah yang sesuai dalam proses SPMB,
                                 Mohon untuk menggunakan tabel yang telah disediakan dibawah untuk mencari informasi beserta data yang telah tersedia.</p>
                                 <div class="row">
         <div class="table-responsive">
-            <h3 class="text-center mb-4">Daya Tampung Sekolah SMP PPDB 2025</h3>
+            <h3 class="text-center mb-4">Daya Tampung Sekolah SMP SPMB 2025</h3>
             <table class="table table-bordered text-center">
                 <thead>
                     <tr style="background-color: #c73737; color: #ffffff;">
