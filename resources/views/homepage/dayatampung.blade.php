@@ -1,6 +1,6 @@
 @extends('layouts.headerfooter')
 
-@section('title', 'SPMB')
+@section('title', 'SPMB Tabanan')
 
 @section('content')
 

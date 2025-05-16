@@ -1,6 +1,6 @@
 @extends('layouts.headerfooter')
 
-@section ('title', 'Alur Pendaftaran SMP')
+@section ('title', 'SPMB Tabanan')
 
 @section('content')
 

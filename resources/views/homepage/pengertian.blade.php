@@ -1,6 +1,6 @@
 @extends('layouts.headerfooter')
 
-@section ('title', 'SPMB')
+@section ('title', 'SPMB Tabanan')
 
 @section('content')
     <header class="site-header d-flex flex-column justify-content-center align-items-center">

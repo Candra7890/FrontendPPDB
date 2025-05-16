@@ -8,7 +8,7 @@
         <meta name="author" content="">
 
         <title>
-            @yield('title', 'SPMB')
+            @yield('title', 'SPMB Tabanan')
         </title>
 
         <!-- CSS FILES -->        
