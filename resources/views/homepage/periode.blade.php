@@ -22,7 +22,7 @@
 <section class="explore-section section-padding" id="section_2">
         <div class="col-12 text-center">
             <h2 class="mb-4">Jadwal Pelaksanaan PPDB</h1>
-            <p class="mb-5">Halaman ini menyediakan informasi terkait periode serta jadwal pelaksanaan PPDB setiap jalur di Kabupaten Tabanan tahun 2024.</p>
+            <p class="mb-5">Halaman ini menyediakan informasi terkait periode serta jadwal pelaksanaan PPDB setiap jalur di Kabupaten Tabanan tahun 2025.</p>
         </div>
                 <div class="container-fluid">
                     <div class="row">
