@@ -40,7 +40,6 @@
                     <th style="text-align: center; vertical-align: middle;">Jalur Prestasi Seni Budaya (6%)</th>
                     <th style="text-align: center; vertical-align: middle;">Daya Tampung (100%)</th>
                     <th style="text-align: center; vertical-align: middle;">Jumlah Kelas VII</th>
-                    <th style="text-align: center; vertical-align: middle;">Jumlah Tiap Rombel</th>
                     </tr>
                 </thead>
                 <tbody>
@@ -57,7 +56,6 @@
                         <td style="text-align: center; vertical-align: middle;">15 </td>
                         <td style="text-align: center; vertical-align: middle;">256 </td>
                         <td style="text-align: center; vertical-align: middle;">8 </td>
-                        <td style="text-align: center; vertical-align: middle;">32 </td>
                     </tr>
                     <tr>
                         <td style="text-align: center; vertical-align: middle;">2 </td>
@@ -71,7 +69,6 @@
                         <td style="text-align: center; vertical-align: middle;">10 </td>
                         <td style="text-align: center; vertical-align: middle;">160 </td>
                         <td style="text-align: center; vertical-align: middle;">5 </td>
-                        <td style="text-align: center; vertical-align: middle;">32 </td>
                     </tr>
                     <tr>
                         <tr style="background-color: #d4edda; color: black;">
@@ -86,7 +83,6 @@
                         <td style="text-align: center; vertical-align: middle;">8 </td>
                         <td style="text-align: center; vertical-align: middle;">128 </td>
                         <td style="text-align: center; vertical-align: middle;">4 </td>
-                        <td style="text-align: center; vertical-align: middle;">32 </td>
                     </tr>
                     <tr>
                         <td style="text-align: center; vertical-align: middle;">4 </td>
@@ -100,7 +96,6 @@
                         <td style="text-align: center; vertical-align: middle;">6 </td>
                         <td style="text-align: center; vertical-align: middle;">96 </td>
                         <td style="text-align: center; vertical-align: middle;">3 </td>
-                        <td style="text-align: center; vertical-align: middle;">32 </td>
                     </tr>
                     <tr>
                         <tr style="background-color: #d4edda; color: black;">
@@ -115,7 +110,6 @@
                         <td style="text-align: center; vertical-align: middle;">4 </td>
                         <td style="text-align: center; vertical-align: middle;">64 </td>
                         <td style="text-align: center; vertical-align: middle;">2 </td>
-                        <td style="text-align: center; vertical-align: middle;">32 </td>
                     </tr>
                     <tr>
                         <td style="text-align: center; vertical-align: middle;">6 </td>
@@ -129,7 +123,6 @@
                         <td style="text-align: center; vertical-align: middle;">15 </td>
                         <td style="text-align: center; vertical-align: middle;">256 </td>
                         <td style="text-align: center; vertical-align: middle;">8 </td>
-                        <td style="text-align: center; vertical-align: middle;">32 </td>
                     </tr>
                     <tr>
                         <tr style="background-color: #d4edda; color: black;">
@@ -144,7 +137,6 @@
                         <td style="text-align: center; vertical-align: middle;">13 </td>
                         <td style="text-align: center; vertical-align: middle;">224 </td>
                         <td style="text-align: center; vertical-align: middle;">7 </td>
-                        <td style="text-align: center; vertical-align: middle;">32 </td>
                     </tr>
                     <tr>
                         <td style="text-align: center; vertical-align: middle;">8 </td>
@@ -158,7 +150,6 @@
                         <td style="text-align: center; vertical-align: middle;">19 </td>
                         <td style="text-align: center; vertical-align: middle;">320 </td>
                         <td style="text-align: center; vertical-align: middle;">8 </td>
-                        <td style="text-align: center; vertical-align: middle;">40 </td>
                     </tr>
                     <tr>
                         <tr style="background-color: #d4edda; color: black;">
@@ -173,7 +164,6 @@
                         <td style="text-align: center; vertical-align: middle;">13 </td>
                         <td style="text-align: center; vertical-align: middle;">224 </td>
                         <td style="text-align: center; vertical-align: middle;">7 </td>
-                        <td style="text-align: center; vertical-align: middle;">32 </td>
                     </tr>
                     <tr>
                         <td style="text-align: center; vertical-align: middle;">10 </td>
@@ -187,7 +177,6 @@
                         <td style="text-align: center; vertical-align: middle;">10 </td>
                         <td style="text-align: center; vertical-align: middle;">160 </td>
                         <td style="text-align: center; vertical-align: middle;">5 </td>
-                        <td style="text-align: center; vertical-align: middle;">32 </td>
                     </tr>
                     <tr>
                         <tr style="background-color: #d4edda; color: black;">
@@ -202,7 +191,6 @@
                         <td style="text-align: center; vertical-align: middle;">12 </td>
                         <td style="text-align: center; vertical-align: middle;">192 </td>
                         <td style="text-align: center; vertical-align: middle;">6 </td>
-                        <td style="text-align: center; vertical-align: middle;">32 </td>
                     </tr>
                     <tr>
                         <td style="text-align: center; vertical-align: middle;">12 </td>
@@ -216,7 +204,6 @@
                         <td style="text-align: center; vertical-align: middle;">10 </td>
                         <td style="text-align: center; vertical-align: middle;">160 </td>
                         <td style="text-align: center; vertical-align: middle;">5 </td>
-                        <td style="text-align: center; vertical-align: middle;">32 </td>
                     </tr>
                     <tr>
                         <tr style="background-color: #d4edda; color: black;">
@@ -231,7 +218,6 @@
                         <td style="text-align: center; vertical-align: middle;">13 </td>
                         <td style="text-align: center; vertical-align: middle;">224 </td>
                         <td style="text-align: center; vertical-align: middle;">7 </td>
-                        <td style="text-align: center; vertical-align: middle;">32 </td>
                     </tr>
                     <tr>
                         <td style="text-align: center; vertical-align: middle;">14 </td>
@@ -245,7 +231,6 @@
                         <td style="text-align: center; vertical-align: middle;">15 </td>
                         <td style="text-align: center; vertical-align: middle;">256 </td>
                         <td style="text-align: center; vertical-align: middle;">8 </td>
-                        <td style="text-align: center; vertical-align: middle;">32 </td>
                     </tr>
                     <tr>
                         <tr style="background-color: #d4edda; color: black;">
@@ -260,7 +245,6 @@
                         <td style="text-align: center; vertical-align: middle;">4 </td>
                         <td style="text-align: center; vertical-align: middle;">64 </td>
                         <td style="text-align: center; vertical-align: middle;">2 </td>
-                        <td style="text-align: center; vertical-align: middle;">32 </td>
                     </tr>
                     <tr>
                         <td style="text-align: center; vertical-align: middle;">16 </td>
@@ -274,7 +258,6 @@
                         <td style="text-align: center; vertical-align: middle;">6 </td>
                         <td style="text-align: center; vertical-align: middle;">96 </td>
                         <td style="text-align: center; vertical-align: middle;">3 </td>
-                        <td style="text-align: center; vertical-align: middle;">32 </td>
                     </tr>
                     <tr>
                         <tr style="background-color: #d4edda; color: black;">
@@ -289,7 +272,6 @@
                         <td style="text-align: center; vertical-align: middle;">13 </td>
                         <td style="text-align: center; vertical-align: middle;">224 </td>
                         <td style="text-align: center; vertical-align: middle;">7 </td>
-                        <td style="text-align: center; vertical-align: middle;">32 </td>
                     </tr>
                     <tr>
                         <td style="text-align: center; vertical-align: middle;">18 </td>
@@ -303,7 +285,6 @@
                         <td style="text-align: center; vertical-align: middle;">10 </td>
                         <td style="text-align: center; vertical-align: middle;">160 </td>
                         <td style="text-align: center; vertical-align: middle;">5 </td>
-                        <td style="text-align: center; vertical-align: middle;">32 </td>
                     </tr>
                     <tr>
                         <tr style="background-color: #d4edda; color: black;">
@@ -318,7 +299,6 @@
                         <td style="text-align: center; vertical-align: middle;">10 </td>
                         <td style="text-align: center; vertical-align: middle;">160 </td>
                         <td style="text-align: center; vertical-align: middle;">5 </td>
-                        <td style="text-align: center; vertical-align: middle;">32 </td>
                     </tr>
                     <tr>
                         <td style="text-align: center; vertical-align: middle;">20 </td>
@@ -332,7 +312,6 @@
                         <td style="text-align: center; vertical-align: middle;">10 </td>
                         <td style="text-align: center; vertical-align: middle;">160 </td>
                         <td style="text-align: center; vertical-align: middle;">5 </td>
-                        <td style="text-align: center; vertical-align: middle;">32 </td>
                     </tr>
                     <tr>
                         <tr style="background-color: #d4edda; color: black;">
@@ -347,7 +326,6 @@
                         <td style="text-align: center; vertical-align: middle;">8 </td>
                         <td style="text-align: center; vertical-align: middle;">128 </td>
                         <td style="text-align: center; vertical-align: middle;">4 </td>
-                        <td style="text-align: center; vertical-align: middle;">32 </td>
                     </tr>
                     <tr>
                         <td style="text-align: center; vertical-align: middle;">22 </td>
@@ -361,7 +339,6 @@
                         <td style="text-align: center; vertical-align: middle;">4 </td>
                         <td style="text-align: center; vertical-align: middle;">64 </td>
                         <td style="text-align: center; vertical-align: middle;">2 </td>
-                        <td style="text-align: center; vertical-align: middle;">32 </td>
                     </tr>
                     <tr>
                         <tr style="background-color: #d4edda; color: black;">
@@ -376,7 +353,6 @@
                         <td style="text-align: center; vertical-align: middle;">10 </td>
                         <td style="text-align: center; vertical-align: middle;">160 </td>
                         <td style="text-align: center; vertical-align: middle;">5 </td>
-                        <td style="text-align: center; vertical-align: middle;">32 </td>
                     </tr>
                     <tr>
                         <td style="text-align: center; vertical-align: middle;">24 </td>
@@ -390,7 +366,6 @@
                         <td style="text-align: center; vertical-align: middle;">4 </td>
                         <td style="text-align: center; vertical-align: middle;">64 </td>
                         <td style="text-align: center; vertical-align: middle;">2 </td>
-                        <td style="text-align: center; vertical-align: middle;">32 </td>
                     </tr>
                     <tr>
                         <tr style="background-color: #d4edda; color: black;">
@@ -405,7 +380,6 @@
                         <td style="text-align: center; vertical-align: middle;">9 </td>
                         <td style="text-align: center; vertical-align: middle;">136 </td>
                         <td style="text-align: center; vertical-align: middle;">4 </td>
-                        <td style="text-align: center; vertical-align: middle;">34 </td>
                     </tr>
                     <tr>
                         <td style="text-align: center; vertical-align: middle;">26 </td>
@@ -419,7 +393,6 @@
                         <td style="text-align: center; vertical-align: middle;">10 </td>
                         <td style="text-align: center; vertical-align: middle;">160 </td>
                         <td style="text-align: center; vertical-align: middle;">5 </td>
-                        <td style="text-align: center; vertical-align: middle;">32 </td>
                     </tr>
                     <tr>
                         <tr style="background-color: #d4edda; color: black;">
@@ -434,7 +407,6 @@
                         <td style="text-align: center; vertical-align: middle;">2 </td>
                         <td style="text-align: center; vertical-align: middle;">32 </td>
                         <td style="text-align: center; vertical-align: middle;">1 </td>
-                        <td style="text-align: center; vertical-align: middle;">32 </td>
                     </tr>
                     <tr>
                         <td style="text-align: center; vertical-align: middle;">28 </td>
@@ -448,7 +420,6 @@
                         <td style="text-align: center; vertical-align: middle;">13 </td>
                         <td style="text-align: center; vertical-align: middle;">224 </td>
                         <td style="text-align: center; vertical-align: middle;">7 </td>
-                        <td style="text-align: center; vertical-align: middle;">32 </td>
                     </tr>
                     <tr>
                         <tr style="background-color: #d4edda; color: black;">
@@ -463,7 +434,6 @@
                         <td style="text-align: center; vertical-align: middle;">4 </td>
                         <td style="text-align: center; vertical-align: middle;">64 </td>
                         <td style="text-align: center; vertical-align: middle;">2 </td>
-                        <td style="text-align: center; vertical-align: middle;">32 </td>
                     </tr>
                     <tr>
                         <td style="text-align: center; vertical-align: middle;">30 </td>
@@ -477,7 +447,6 @@
                         <td style="text-align: center; vertical-align: middle;">12 </td>
                         <td style="text-align: center; vertical-align: middle;">192 </td>
                         <td style="text-align: center; vertical-align: middle;">6 </td>
-                        <td style="text-align: center; vertical-align: middle;">32 </td>
                     </tr>
                     <tr>
                         <tr style="background-color: #d4edda; color: black;">
@@ -492,7 +461,6 @@
                         <td style="text-align: center; vertical-align: middle;">5 </td>
                         <td style="text-align: center; vertical-align: middle;">96 </td>
                         <td style="text-align: center; vertical-align: middle;">3 </td>
-                        <td style="text-align: center; vertical-align: middle;">32 </td>
                     </tr>
                     <tr>
                         <td style="text-align: center; vertical-align: middle;">32 </td>
@@ -506,7 +474,6 @@
                         <td style="text-align: center; vertical-align: middle;">5 </td>
                         <td style="text-align: center; vertical-align: middle;">96 </td>
                         <td style="text-align: center; vertical-align: middle;">3 </td>
-                        <td style="text-align: center; vertical-align: middle;">32 </td>
                     </tr>
                     <tr>
                         <tr style="background-color: #d4edda; color: black;">
@@ -521,7 +488,6 @@
                         <td style="text-align: center; vertical-align: middle;">29 </td>
                         <td style="text-align: center; vertical-align: middle;">484 </td>
                         <td style="text-align: center; vertical-align: middle;">11 </td>
-                        <td style="text-align: center; vertical-align: middle;">44 </td>
                     </tr>
                     <tr>
                         <td style="text-align: center; vertical-align: middle;">34 </td>
@@ -535,7 +501,6 @@
                         <td style="text-align: center; vertical-align: middle;">22 </td>
                         <td style="text-align: center; vertical-align: middle;">360 </td>
                         <td style="text-align: center; vertical-align: middle;">9 </td>
-                        <td style="text-align: center; vertical-align: middle;">40 </td>
                     </tr>
                     <tr>
                         <tr style="background-color: #d4edda; color: black;">
@@ -550,7 +515,6 @@
                         <td style="text-align: center; vertical-align: middle;">11 </td>
                         <td style="text-align: center; vertical-align: middle;">180 </td>
                         <td style="text-align: center; vertical-align: middle;">5 </td>
-                        <td style="text-align: center; vertical-align: middle;">36 </td>
                     </tr>
                     <tr>
                         <td style="text-align: center; vertical-align: middle;">36 </td>
@@ -564,7 +528,6 @@
                         <td style="text-align: center; vertical-align: middle;">5 </td>
                         <td style="text-align: center; vertical-align: middle;">96 </td>
                         <td style="text-align: center; vertical-align: middle;">3 </td>
-                        <td style="text-align: center; vertical-align: middle;">32 </td>
                     </tr>
                     <tr>
                         <tr style="background-color: #d4edda; color: black;">
@@ -579,7 +542,6 @@
                         <td style="text-align: center; vertical-align: middle;">10 </td>
                         <td style="text-align: center; vertical-align: middle;">160 </td>
                         <td style="text-align: center; vertical-align: middle;">5 </td>
-                        <td style="text-align: center; vertical-align: middle;">32 </td>
                     </tr>
                     <tr>
                         <td style="text-align: center; vertical-align: middle;">38 </td>
@@ -593,7 +555,6 @@
                         <td style="text-align: center; vertical-align: middle;">12 </td>
                         <td style="text-align: center; vertical-align: middle;">192 </td>
                         <td style="text-align: center; vertical-align: middle;">6 </td>
-                        <td style="text-align: center; vertical-align: middle;">32 </td>
                     </tr>
                     <tr>
                         <tr style="background-color: #d4edda; color: black;">
@@ -608,7 +569,6 @@
                         <td style="text-align: center; vertical-align: middle;"> </td>
                         <td style="text-align: center; vertical-align: middle;">128 </td>
                         <td style="text-align: center; vertical-align: middle;">4 </td>
-                        <td style="text-align: center; vertical-align: middle;">32 </td>
                     </tr>
                     <tr>
                         <td style="text-align: center; vertical-align: middle;">40 </td>
@@ -622,7 +582,6 @@
                         <td style="text-align: center; vertical-align: middle;"> </td>
                         <td style="text-align: center; vertical-align: middle;">64 </td>
                         <td style="text-align: center; vertical-align: middle;">2 </td>
-                        <td style="text-align: center; vertical-align: middle;">32 </td>
                     </tr>
                     <tr>
                         <tr style="background-color: #d4edda; color: black;">
@@ -637,7 +596,6 @@
                         <td style="text-align: center; vertical-align: middle;"> </td>
                         <td style="text-align: center; vertical-align: middle;">32 </td>
                         <td style="text-align: center; vertical-align: middle;">1 </td>
-                        <td style="text-align: center; vertical-align: middle;">32 </td>
                     </tr>
                     <tr>
                         <tr style="background-color: #c73737; color: #ffffff;">
@@ -652,7 +610,6 @@
                         <td style="text-align: center; vertical-align: middle;">391 </td>
                         <td style="text-align: center; vertical-align: middle;">6.696 </td>
                         <td style="text-align: center; vertical-align: middle;">200 </td>
-                        <td style="text-align: center; vertical-align: middle;"> </td>
                     </tr>
                 </tbody>
             </table>

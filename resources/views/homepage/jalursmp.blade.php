@@ -10,7 +10,7 @@
             <div class="col-lg-7 col-12">
                 <div class="mu-contact-area">
                     <div class="mu-title">
-                        <span class="mu-subtitle" style="color: #FFFFFF;" >Masih Belum Tahu Mulai Kapan Pelaksanaan PPDB Berlangsung?</span>
+                        <span class="mu-subtitle" style="color: #FFFFFF;" >Masih Belum Tahu Mulai Kapan Pelaksanaan SPMB Berlangsung?</span>
                         <h2 style="color: #FFFFFF;" >Berikut Merupakan Jadwal Lengkapnya!</h2>
                     </div>
                 </div>
@@ -21,8 +21,8 @@
 
 <section class="explore-section section-padding" id="section_2">
     <div class="col-12 text-center">
-        <h2 class="mb-4">Alur Pelaksanaan PPDB Jenjang SMP</h2>
-        <p class="mb-5">Halaman ini menyediakan informasi terkait periode serta jadwal pelaksanaan PPDB setiap jalur di Kabupaten Tabanan tahun 2024.</p>
+        <h2 class="mb-4">Alur Pelaksanaan SPMB Jenjang SMP</h2>
+        <p class="mb-5">Halaman ini menyediakan informasi terkait periode serta jadwal pelaksanaan SPMB setiap jalur di Kabupaten Tabanan tahun 2024.</p>
     </div>
     <div class="container-fluid">
         <div class="row">

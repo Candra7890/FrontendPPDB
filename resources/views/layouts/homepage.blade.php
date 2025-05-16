@@ -8,7 +8,7 @@
         <meta name="author" content="">
 
         <title>
-            @yield('title', 'PPDB Tabanan 2025')
+            @yield('title', 'SPMB Tabanan 2025')
         </title>
 
         <!-- CSS FILES -->        
@@ -53,7 +53,7 @@
                 <div class="container">
                     <a class="navbar-brand" href="/">
                     <img src="/topiclist/images/OIP__15_-removebg-preview.png" style="width: 100px; height: 100;">
-                        <span style="color: #FFFFFF;">PPDB TABANAN</span>
+                        <span style="color: #FFFFFF;">SPMB TABANAN</span>
                     </a>
 
                     <div class="d-lg-none ms-auto me-4">
@@ -83,10 +83,10 @@
                             </li>
 
                             <li class="nav-item dropdown">
-                                <a class="nav-link dropdown-toggle" href="#" id="navbarLightDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">Alur PPDB</a>
+                                <a class="nav-link dropdown-toggle" href="#" id="navbarLightDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">Alur SPMB</a>
 
                                 <ul class="dropdown-menu dropdown-menu-light" aria-labelledby="navbarLightDropdownMenuLink">
-                                    <li><a class="dropdown-item" href="/jalursmp">Alur Pendaftaran PPDB SMP</a></li>
+                                    <li><a class="dropdown-item" href="/jalursmp">Alur Pendaftaran SPMB SMP</a></li>
                                 </ul>
                             </li>
                         </ul>
@@ -106,7 +106,7 @@
                         <div class="col-lg-8 col-12 mx-auto">
                             <h1 class="text-white text-center">Cepat. Aman. Terpadu</h1>
 
-                            <h6 class="text-center" style="color: #FFFFFF;">Situs ini dipersiapkan sebagai pusat informasi dan pengolahan seleksi data siswa peserta PPDB Kabupaten Tabanan Periode 2025 / 2026</h6>
+                            <h6 class="text-center" style="color: #FFFFFF;">Situs ini dipersiapkan sebagai pusat informasi dan pengolahan seleksi data siswa peserta SPMB Kabupaten Tabanan Periode 2025 / 2026</h6>
 
                             <form method="get" class="custom-form mt-4 pt-2 mb-lg-0 mb-5" role="search" onsubmit="redirectToNISN(event)">
                                 <div class="input-group input-group-lg">
@@ -132,9 +132,9 @@
 
                                     <div class="custom-block-overlay-text d-flex" >
                                         <div>
-                                            <h5 class="text-white mb-2">PPDB 2025</h5>
+                                            <h5 class="text-white mb-2">SPMB 2025</h5>
 
-                                            <p class="text-white">Apa dari kalian masih bingung dengan apa sih itu istilah PPDB? Yuk mari kita cari tau disini!</p>
+                                            <p class="text-white">Apa dari kalian masih bingung dengan apa sih itu istilah SPMB? Yuk mari kita cari tau disini!</p>
 
                                             <a href="/pengertian" class="btn custom-btn mt-2 mt-lg-3" style="background-color: #FF0000;">Cek Selengkapnya</a>
                                         </div>
@@ -172,9 +172,9 @@
 
                                     <div class="custom-block-overlay-text d-flex">
                                         <div>
-                                            <h5 class="text-white mb-2">Jadwal Pelaksanaan PPDB 2025</h5>
+                                            <h5 class="text-white mb-2">Jadwal Pelaksanaan SPMB 2025</h5>
 
-                                            <p class="text-white">Mari cari tau jadwal serta periode lengkap pelaksanaan PPDB Kabupaten Tabanan 2025 disini!</p>
+                                            <p class="text-white">Mari cari tau jadwal serta periode lengkap pelaksanaan SPMB Kabupaten Tabanan 2025 disini!</p>
 
                                             <a href="/periode" class="btn custom-btn mt-2 mt-lg-3" style="background-color: #FF0000;">Cek Selengkapnya</a>
                                         </div>
@@ -191,26 +191,26 @@
 
             <section class="explore-section section-padding" id="section_2">
                         <div class="col-12 text-center">
-                            <h2 class="mb-4">Pendaftaran PPDB 2025</h1>
+                            <h2 class="mb-4">Pendaftaran SPMB 2025</h1>
                         </div>
 
                 <div class="container-fluid">
                     <div class="row">
                         <ul class="nav nav-tabs" id="myTab" role="tablist">
                             <li class="nav-item" role="presentation">
-                                <button class="nav-link active" id="design-tab" data-bs-toggle="tab" data-bs-target="#design-tab-pane" type="button" role="tab" aria-controls="design-tab-pane" aria-selected="true">PPDB Jalur Domisili</button>
+                                <button class="nav-link active" id="design-tab" data-bs-toggle="tab" data-bs-target="#design-tab-pane" type="button" role="tab" aria-controls="design-tab-pane" aria-selected="true">SPMB Jalur Domisili</button>
                             </li>
 
                             <li class="nav-item" role="presentation">
-                                <button class="nav-link" id="marketing-tab" data-bs-toggle="tab" data-bs-target="#marketing-tab-pane" type="button" role="tab" aria-controls="marketing-tab-pane" aria-selected="false">PPDB Jalur Afirmasi</button>
+                                <button class="nav-link" id="marketing-tab" data-bs-toggle="tab" data-bs-target="#marketing-tab-pane" type="button" role="tab" aria-controls="marketing-tab-pane" aria-selected="false">SPMB Jalur Afirmasi</button>
                             </li>
 
                             <li class="nav-item" role="presentation">
-                                <button class="nav-link" id="finance-tab" data-bs-toggle="tab" data-bs-target="#finance-tab-pane" type="button" role="tab" aria-controls="finance-tab-pane" aria-selected="false">PPDB Jalur Mutasi</button>
+                                <button class="nav-link" id="finance-tab" data-bs-toggle="tab" data-bs-target="#finance-tab-pane" type="button" role="tab" aria-controls="finance-tab-pane" aria-selected="false">SPMB Jalur Mutasi</button>
                             </li>
 
                             <li class="nav-item" role="presentation">
-                                <button class="nav-link" id="music-tab" data-bs-toggle="tab" data-bs-target="#music-tab-pane" type="button" role="tab" aria-controls="music-tab-pane" aria-selected="false">PPDB Jalur Prestasi</button>
+                                <button class="nav-link" id="music-tab" data-bs-toggle="tab" data-bs-target="#music-tab-pane" type="button" role="tab" aria-controls="music-tab-pane" aria-selected="false">SPMB Jalur Prestasi</button>
                             </li>
                         </ul>
                     </div>
@@ -228,7 +228,7 @@
                                                 <a href="/">
                                                     <div class="d-flex justify-content-center align-items-center">
                                                         <div>
-                                                            <h5 class="mb-2">PPDB Jalur Domisili</h5>
+                                                            <h5 class="mb-2">SPMB Jalur Domisili</h5>
                                                             <p class="text-black">Mari cek pendaftaran jalur domisili yang sedang berlangsung disini!</p>
                                                         </div>
                                                         <span class="badge bg-advertising rounded-pill ms-auto" style="padding: 5px 30px;">Non Aktif</span>
@@ -249,7 +249,7 @@
                                                     <a href="/">
                                                         <div class="d-flex justify-content-center align-items-center">
                                                             <div>
-                                                                <h5 class="mb-2">PPDB Jalur Afirmasi</h5>
+                                                                <h5 class="mb-2">SPMB Jalur Afirmasi</h5>
                                                                 <p class="text-black">Mari cek pendaftaran jalur afirmasi yang sedang berlangsung disini!</p>
                                                             </div>
 
@@ -270,7 +270,7 @@
                                                     <a href="/">
                                                         <div class="d-flex justify-content-center align-items-center">
                                                             <div>
-                                                                <h5 class="mb-2">PPDB Jalur Mutasi</h5>
+                                                                <h5 class="mb-2">SPMB Jalur Mutasi</h5>
                                                                 <p class="text-black">Mari cek pendaftaran jalur mutasi yang sedang berlangsung disini!</p>
                                                             </div>
 
@@ -291,7 +291,7 @@
                                                 <a href="/">
                                                     <div class="d-flex justify-content-center align-items-center">
                                                         <div>
-                                                            <h5 class="mb-2">PPDB Jalur Prestasi</h5>
+                                                            <h5 class="mb-2">SPMB Jalur Prestasi</h5>
                                                             <p class="text-black">Mari cek pendaftaran jalur prestasi yang sedang berlangsung disini!</p>
                                                         </div>
                                                         <span class="badge bg-advertising rounded-pill ms-auto" style="padding: 5px 30px;">Non Aktif</span>
@@ -316,7 +316,7 @@
                     <div class="row">
 
                         <div class="col-12 text-center">
-                            <h2 class="text-white mb-4">Persyaratan Umum PPDB</h1>
+                            <h2 class="text-white mb-4">Persyaratan Umum SPMB</h1>
                         </div>
 
                         <div class="col-lg-10 col-12 mx-auto">
@@ -371,7 +371,7 @@
 
                         <div class="col-12 text-center mt-5">
                             <p class="text-white">
-                                Ingin mengetahui lebih jauh tentang apa saja dokumen pendukung PPDB?
+                                Ingin mengetahui lebih jauh tentang apa saja dokumen pendukung SPMB?
                                 <a href="/dokumen" class="btn custom-btn custom-border-btn ms-3" >Temukan Disini!</a>
                             </p>
                         </div>
@@ -390,9 +390,9 @@
 
                         <div class="col-lg-5 col-12 subscribe-form-wrap d-flex justify-content-center align-items-center">
                             <form class="custom-form subscribe-form" action="#" method="post" role="form">
-                                <h4 class="mb-4 pb-2">Anda Memiliki Masalah Terkait Pelaksanaan PPDB? Ajukan Disini!</h4>
+                                <h4 class="mb-4 pb-2">Anda Memiliki Masalah Terkait Pelaksanaan SPMB? Ajukan Disini!</h4>
                                 <div class="col-lg-12 col-12">
-                                    <a href="/pengaduan" class="btn custom-btn mt-2 mt-lg-3" style="background-color: #FF0000;">Pusat Pengaduan PPDB</a>
+                                    <a href="/pengaduan" class="btn custom-btn mt-2 mt-lg-3" style="background-color: #FF0000;">Pusat Pengaduan SPMB</a>
                                 </div>
                             </form>
                         </div>
@@ -452,7 +452,7 @@
                     <a class="navbar-brand d-flex align-items-center" href="/">
                         <img class="mr-2" src="/topiclist/images/OIP__15_-removebg-preview.png" style="width: 100px; height: 100;">
                         <div>
-                            <span>PPDB</span><br>
+                            <span>SPMB</span><br>
                             <span>TABANAN</span>
                         </div>
                     </a>

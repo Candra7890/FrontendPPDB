@@ -8,7 +8,7 @@
         <meta name="author" content="">
 
         <title>
-            @yield('title', 'PPDB')
+            @yield('title', 'SPMB')
         </title>
 
         <!-- CSS FILES -->        
@@ -41,7 +41,7 @@
                 <div class="container">
                     <a class="navbar-brand" href="index.html">
                         <img src="/topiclist/images/OIP__15_-removebg-preview.png" style="width: 100px; height: 100;">
-                        <span style="color: #FFFFFF;">PPDB TABANAN</span>
+                        <span style="color: #FFFFFF;">SPMB TABANAN</span>
                     </a>
 
                     <div class="d-lg-none ms-auto me-4">
@@ -70,10 +70,10 @@
                             </li>
 
                             <li class="nav-item dropdown">
-                                <a class="nav-link dropdown-toggle" href="#" id="navbarLightDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">Alur PPDB</a>
+                                <a class="nav-link dropdown-toggle" href="#" id="navbarLightDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">Alur SPMB</a>
 
                                 <ul class="dropdown-menu dropdown-menu-light" aria-labelledby="navbarLightDropdownMenuLink">
-                                    <li><a class="dropdown-item" href="/jalursmp">Alur Pendaftaran PPDB SMP</a></li>
+                                    <li><a class="dropdown-item" href="/jalursmp">Alur Pendaftaran SPMB SMP</a></li>
                                 </ul>
                             </li>
                         </ul>
@@ -97,7 +97,7 @@
                         <a class="navbar-brand d-flex align-items-center" href="/">
                             <img class="mr-2" src="/topiclist/images/OIP__15_-removebg-preview.png" style="width: 100px; height: 100;">
                             <div>
-                                <span>PPDB</span><br>
+                                <span>SPMB</span><br>
                                 <span>TABANAN</span>
                             </div>
                         </a>

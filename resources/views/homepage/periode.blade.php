@@ -1,6 +1,6 @@
 @extends('layouts.headerfooter')
 
-@section('title', 'PPDB')
+@section('title', 'SPMB')
 
 @section('content')
 
@@ -10,7 +10,7 @@
             <div class="col-lg-7 col-12">
                 <div class="mu-contact-area">
                     <div class="mu-title">
-                        <span class="mu-subtitle" style="color: #FFFFFF;">Masih Belum Tahu Mulai Kapan Pelaksanaan PPDB Berlangsung?</span>
+                        <span class="mu-subtitle" style="color: #FFFFFF;">Masih Belum Tahu Mulai Kapan Pelaksanaan SPMB Berlangsung?</span>
                         <h2 style="color: #FFFFFF;">Berikut Merupakan Jadwal Lengkapnya!</h2>
                     </div>
                 </div>
@@ -21,8 +21,8 @@
 
 <section class="explore-section section-padding" id="section_2">
         <div class="col-12 text-center">
-            <h2 class="mb-4">Jadwal Pelaksanaan PPDB</h1>
-            <p class="mb-5">Halaman ini menyediakan informasi terkait periode serta jadwal pelaksanaan PPDB setiap jalur di Kabupaten Tabanan tahun 2025.</p>
+            <h2 class="mb-4">Jadwal Pelaksanaan SPMB</h1>
+            <p class="mb-5">Halaman ini menyediakan informasi terkait periode serta jadwal pelaksanaan SPMB setiap jalur di Kabupaten Tabanan tahun 2025.</p>
         </div>
                 <div class="container-fluid">
                     <div class="row">
@@ -53,7 +53,7 @@
                             <div class="tab-pane fade show active" id="design-tab-pane" role="tabpanel" aria-labelledby="design-tab" tabindex="0">
                                 <div class="row">
                                     <div class="table-responsive">
-                                        <h3 class="text-center mb-4">Jadwal PPDB Jalur Prestasi</h3>
+                                        <h3 class="text-center mb-4">Jadwal SPMB Jalur Prestasi</h3>
                                             <table class="table table-bordered text-center">
                                                 <thead>
                                                 <tr style="background-color: #c73737; color: #ffffff;">
@@ -97,7 +97,7 @@
                                 <div class="tab-pane fade" id="marketing-tab-pane" role="tabpanel" aria-labelledby="marketing-tab" tabindex="0">
                                     <div class="row">
                                     <div class="table-responsive">
-                                        <h3 class="text-center mb-4">Jadwal PPDB Jalur Afirmasi</h3>
+                                        <h3 class="text-center mb-4">Jadwal SPMB Jalur Afirmasi</h3>
                                             <table class="table table-bordered text-center">
                                                 <thead>
                                                 <tr style="background-color: #c73737; color: #ffffff;">
@@ -140,7 +140,7 @@
 
                             <div class="tab-pane fade" id="finance-tab-pane" role="tabpanel" aria-labelledby="finance-tab" tabindex="0">   <div class="row">
                                 <div class="table-responsive">
-                                        <h3 class="text-center mb-4">Jadwal PPDB Jalur Mutasi</h3>
+                                        <h3 class="text-center mb-4">Jadwal SPMB Jalur Mutasi</h3>
                                             <table class="table table-bordered text-center">
                                                 <thead>
                                                 <tr style="background-color: #c73737; color: #ffffff;">
@@ -184,7 +184,7 @@
                                 <div class="tab-pane fade" id="music-tab-pane" role="tabpanel" aria-labelledby="music-tab" tabindex="0">
                                     <div class="row">
                                     <div class="table-responsive">
-                                        <h3 class="text-center mb-4">Jadwal PPDB Jalur Domisili</h3>
+                                        <h3 class="text-center mb-4">Jadwal SPMB Jalur Domisili</h3>
                                             <table class="table table-bordered text-center">
                                                 <thead>
                                                 <tr style="background-color: #c73737; color: #ffffff;">

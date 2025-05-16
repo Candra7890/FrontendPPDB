@@ -1,3 +1,3 @@
 @extends('layouts.homepage')
 
-@section('title', 'PPDB Tabanan')
+@section('title', 'SPMB Tabanan')
