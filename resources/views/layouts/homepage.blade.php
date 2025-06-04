@@ -359,7 +359,7 @@
                                     <li>
                                         <h4 class="text-white mb-3">Persyaratan Keabsahan Dokumen</h4>
 
-                                        <p class="text-white">Membuat Surat Pernyataan Orang Tua/Wali tentang keabsahan dokumen sesuai yang tertera pada Lampiran <a href="https://tinyurl.com/PPDBTabanan24" class="text-link"> berikut</a></p>
+                                        <p class="text-white">Membuat Surat Pernyataan Orang Tua/Wali tentang keabsahan dokumen sesuai yang tertera pada Lampiran <a href="https://tinyurl.com/SPMBTabanan2025" class="text-link"> berikut</a></p>
 
                                         <div class="icon-holder">
                                           <i class="bi-search"></i>

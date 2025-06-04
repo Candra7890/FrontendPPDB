@@ -33,7 +33,7 @@
                                 <div class="row">
                                     <div class="col-lg-4 col-md-6 mb-4">
                                         <div class="custom-block bg-white shadow-lg">
-                                            <a href="https://tinyurl.com/PPDBTabanan24">
+                                            <a href="https://tinyurl.com/SPMBTabanan2025">
                                                 <div class="d-flex">
                                                     <div>
                                                         <h5 class="mb-2">Surat Pernyataan Peserta Didik Baru</h5>
@@ -47,7 +47,7 @@
 
                                     <div class="col-lg-4 col-md-6 mb-4">
                                         <div class="custom-block bg-white shadow-lg">
-                                            <a href="https://tinyurl.com/PPDBTabanan24">
+                                            <a href="https://tinyurl.com/SPMBTabanan2025">
                                                 <div class="d-flex">
                                                     <div>
                                                         <h5 class="mb-2">Surat Pernyataan Keabsahan Dokumen Orang Tua/Wali Calon Peserta Didik Baru</h5>
@@ -61,7 +61,7 @@
 
                                     <div class="col-lg-4 col-md-6 mb-4">
                                         <div class="custom-block bg-white shadow-lg">
-                                            <a href="https://tinyurl.com/PPDBTabanan24">
+                                            <a href="https://tinyurl.com/SPMBTabanan2025">
                                                 <div class="d-flex">
                                                     <div>
                                                         <h5 class="mb-2">Surat Pernyataan Daftar Ulang</h5>
@@ -76,7 +76,7 @@
 
                                     <div class="col-lg-4 col-md-6 mb-4">
                                         <div class="custom-block bg-white shadow-lg">
-                                            <a href="https://tinyurl.com/PPDBTabanan24">
+                                            <a href="https://tinyurl.com/SPMBTabanan2025">
                                                 <div class="d-flex">
                                                     <div>
                                                         <h5 class="mb-2">Surat Keterangan Penugasan Orang Tua/Wali</h5>
@@ -90,7 +90,7 @@
 
                                     <div class="col-lg-4 col-md-6 mb-4">
                                         <div class="custom-block bg-white shadow-lg">
-                                            <a href="https://tinyurl.com/PPDBTabanan24">
+                                            <a href="https://tinyurl.com/SPMBTabanan2025">
                                                 <div class="d-flex">
                                                     <div>
                                                         <h5 class="mb-2">Surat Keterangan Anak Guru</h5>
@@ -104,7 +104,7 @@
 
                                     <div class="col-lg-4 col-md-6 mb-4">
                                         <div class="custom-block bg-white shadow-lg">
-                                            <a href="https://tinyurl.com/PPDBTabanan24">
+                                            <a href="https://tinyurl.com/SPMBTabanan2025">
                                                 <div class="d-flex">
                                                     <div>
                                                         <h5 class="mb-2">Surat Keterangan Hasil Belajar</h5>
