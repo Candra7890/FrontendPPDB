@@ -145,7 +145,7 @@
                             </div>
                         </div>
 
-                        <div class="col-lg-4 col-12 mb-4 mb-lg-0">
+                        <!-- <div class="col-lg-4 col-12 mb-4 mb-lg-0">
                             <div class="custom-block custom-block-overlay">
                                 <div class="d-flex flex-column h-100">
                                     <img src="/topiclist/images/hqdefault_live.jpg" class="custom-block-image img-fluid" alt="">
@@ -163,7 +163,7 @@
                                     <div class="section-overlay"></div>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
 
                         <div class="col-lg-4 col-12 mb-4 mb-lg-0">
                             <div class="custom-block custom-block-overlay">
