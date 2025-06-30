@@ -246,14 +246,14 @@
                                     <div class="row justify-content-center">
                                         <div class="col-lg-8 col-md-10 col-12 mb-4 mb-lg-0">
                                                 <div class="custom-block bg-white shadow-lg">
-                                                    <a href="/">
+                                                    <a href="https://tabanan-frontend.ppdb-online.web.id/pengumuman">
                                                         <div class="d-flex justify-content-center align-items-center">
                                                             <div>
                                                                 <h5 class="mb-2">SPMB Jalur Afirmasi</h5>
                                                                 <p class="text-black">Mari cek pendaftaran jalur afirmasi yang sedang berlangsung disini!</p>
                                                             </div>
 
-                                                            <span class="badge bg-advertising rounded-pill ms-auto" style="padding: 5px 30px;">Non Aktif</span>
+                                                            <span class="badge bg-advertising rounded-pill ms-auto" style="padding: 5px 30px;">Aktif</span>
                                                         </div>
 
                                                         <img src="/topiclist/images/topics/undraw_viral_tweet_gndb.png" class="custom-block-image img-fluid mt-3" style="object-fit: cover; width: 100%; height: 100%;" alt="">
@@ -267,14 +267,14 @@
                                     <div class="row justify-content-center">
                                         <div class="col-lg-8 col-md-10 col-12 mb-4 mb-lg-0">
                                                 <div class="custom-block bg-white shadow-lg">
-                                                    <a href="/">
+                                                    <a href="https://tabanan-frontend.ppdb-online.web.id/pengumuman">
                                                         <div class="d-flex justify-content-center align-items-center">
                                                             <div>
                                                                 <h5 class="mb-2">SPMB Jalur Mutasi</h5>
                                                                 <p class="text-black">Mari cek pendaftaran jalur mutasi yang sedang berlangsung disini!</p>
                                                             </div>
 
-                                                            <span class="badge bg-advertising rounded-pill ms-auto" style="padding: 5px 30px;">Non Aktif</span>
+                                                            <span class="badge bg-advertising rounded-pill ms-auto" style="padding: 5px 30px;">Aktif</span>
                                                         </div>
 
                                                         <img src="/topiclist/images/topics/undraw_Educator_re_ju47.png" class="custom-block-image img-fluid mt-3" style="object-fit: cover; width: 100%; height: 100%;" alt="">
@@ -288,13 +288,13 @@
                                     <div class="row justify-content-center">
                                         <div class="col-lg-8 col-md-10 col-12 mb-4 mb-lg-0">
                                             <div class="custom-block bg-white shadow-lg">
-                                                <a href="/">
+                                                <a href="https://tabanan-frontend.ppdb-online.web.id/pengumuman">
                                                     <div class="d-flex justify-content-center align-items-center">
                                                         <div>
                                                             <h5 class="mb-2">SPMB Jalur Prestasi</h5>
                                                             <p class="text-black">Mari cek pendaftaran jalur prestasi yang sedang berlangsung disini!</p>
                                                         </div>
-                                                        <span class="badge bg-advertising rounded-pill ms-auto" style="padding: 5px 30px;">Non Aktif</span>
+                                                        <span class="badge bg-advertising rounded-pill ms-auto" style="padding: 5px 30px;">Aktif</span>
                                                     </div>
                                                     <img src="/topiclist/images/topics/undraw_Group_video_re_btu7.png" class="custom-block-image img-fluid mt-3" style="object-fit: cover; width: 100%; height: 100%;" alt="">
                                                 </a>
