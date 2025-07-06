@@ -225,13 +225,13 @@
                                     <div class="row justify-content-center">
                                         <div class="col-lg-8 col-md-10 col-12 mb-4 mb-lg-0">
                                             <div class="custom-block bg-white shadow-lg">
-                                                <a href="/">
+                                                <a href="https://tabanan-frontend.ppdb-online.web.id/pengumuman">
                                                     <div class="d-flex justify-content-center align-items-center">
                                                         <div>
                                                             <h5 class="mb-2">SPMB Jalur Domisili</h5>
                                                             <p class="text-black">Mari cek pendaftaran jalur domisili yang sedang berlangsung disini!</p>
                                                         </div>
-                                                        <span class="badge bg-advertising rounded-pill ms-auto" style="padding: 5px 30px;">Non Aktif</span>
+                                                        <span class="badge bg-advertising rounded-pill ms-auto" style="padding: 5px 30px;">Aktif</span>
                                                     </div>
 
                                                     <img src="/topiclist/images/topics/undraw_Remote_design_team_re_urdx.png" class="custom-block-image img-fluid mt-3" style="object-fit: cover; width: 100%; height: 100%;" alt="">
