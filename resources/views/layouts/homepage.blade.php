@@ -8,7 +8,7 @@
         <meta name="author" content="">
 
         <title>
-            @yield('title', 'SPMB Tabanan 2025')
+            @yield('title', 'SPMB Tabanan 2026')
         </title>
 
         <!-- CSS FILES -->        
@@ -37,7 +37,7 @@
             event.preventDefault();
             const nisn = document.getElementById('keyword').value;
             if (nisn) {
-                window.location.href = `https://tabanan-frontend.ppdb-online.web.id/ceknisn?nisn=${encodeURIComponent(nisn)}`;
+                window.location.href = `https://spmb-frontend.tabanankab.go.id/ceknisn?nisn=${encodeURIComponent(nisn)}`;
             } else {
                 alert('Mohon masukkan nomor NISN!');
             }
@@ -57,7 +57,7 @@
                     </a>
 
                     <div class="d-lg-none ms-auto me-4">
-                        <a href="https://tabanan-frontend.ppdb-online.web.id" class="navbar-icon bi-person smoothscroll"></a>
+                        <a href="https://spmb-frontend.tabanankab.go.id" class="navbar-icon bi-person smoothscroll"></a>
                     </div>
     
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -92,7 +92,7 @@
                         </ul>
 
                         <div class="d-lg-block d-md-block d-sm-block">
-                            <a href=" https://tabanan-frontend.ppdb-online.web.id" class="navbar-icon bi-person smoothscroll"></a>
+                            <a href=" https://spmb-frontend.tabanankab.go.id" class="navbar-icon bi-person smoothscroll"></a>
                         </div>
                     </div>
                 </div>
@@ -106,7 +106,7 @@
                         <div class="col-lg-8 col-12 mx-auto">
                             <h1 class="text-white text-center">Cepat. Aman. Terpadu</h1>
 
-                            <h6 class="text-center" style="color: #FFFFFF;">Situs ini dipersiapkan sebagai pusat informasi dan pengolahan seleksi data siswa peserta SPMB Kabupaten Tabanan Periode 2025 / 2026</h6>
+                            <h6 class="text-center" style="color: #FFFFFF;">Situs ini dipersiapkan sebagai pusat informasi dan pengolahan seleksi data siswa peserta SPMB Kabupaten Tabanan Periode 2026 / 2027</h6>
 
                             <form method="get" class="custom-form mt-4 pt-2 mb-lg-0 mb-5" role="search" onsubmit="redirectToNISN(event)">
                                 <div class="input-group input-group-lg">
@@ -132,7 +132,7 @@
 
                                     <div class="custom-block-overlay-text d-flex" >
                                         <div>
-                                            <h5 class="text-white mb-2">SPMB 2025</h5>
+                                            <h5 class="text-white mb-2">SPMB 2026</h5>
 
                                             <p class="text-white">Apa dari kalian masih bingung dengan apa sih itu istilah SPMB? Yuk mari kita cari tau disini!</p>
 
@@ -172,9 +172,9 @@
 
                                     <div class="custom-block-overlay-text d-flex">
                                         <div>
-                                            <h5 class="text-white mb-2">Jadwal Pelaksanaan SPMB 2025</h5>
+                                            <h5 class="text-white mb-2">Jadwal Pelaksanaan SPMB 2026</h5>
 
-                                            <p class="text-white">Mari cari tau jadwal serta periode lengkap pelaksanaan SPMB Kabupaten Tabanan 2025 disini!</p>
+                                            <p class="text-white">Mari cari tau jadwal serta periode lengkap pelaksanaan SPMB Kabupaten Tabanan 2026 disini!</p>
 
                                             <a href="/periode" class="btn custom-btn mt-2 mt-lg-3" style="background-color: #FF0000;">Cek Selengkapnya</a>
                                         </div>
@@ -191,7 +191,7 @@
 
             <section class="explore-section section-padding" id="section_2">
                         <div class="col-12 text-center">
-                            <h2 class="mb-4">Pendaftaran SPMB 2025</h1>
+                            <h2 class="mb-4">Pendaftaran SPMB 2026</h1>
                         </div>
 
                 <div class="container-fluid">
@@ -225,13 +225,13 @@
                                     <div class="row justify-content-center">
                                         <div class="col-lg-8 col-md-10 col-12 mb-4 mb-lg-0">
                                             <div class="custom-block bg-white shadow-lg">
-                                                <a href="https://tabanan-frontend.ppdb-online.web.id/pengumuman">
+                                                <a href="#">
                                                     <div class="d-flex justify-content-center align-items-center">
                                                         <div>
                                                             <h5 class="mb-2">SPMB Jalur Domisili</h5>
                                                             <p class="text-black">Mari cek pendaftaran jalur domisili yang sedang berlangsung disini!</p>
                                                         </div>
-                                                        <span class="badge bg-advertising rounded-pill ms-auto" style="padding: 5px 30px;">Aktif</span>
+                                                        <span class="badge bg-advertising rounded-pill ms-auto" style="padding: 5px 30px;">Non Aktif</span>
                                                     </div>
 
                                                     <img src="/topiclist/images/topics/undraw_Remote_design_team_re_urdx.png" class="custom-block-image img-fluid mt-3" style="object-fit: cover; width: 100%; height: 100%;" alt="">
@@ -246,14 +246,14 @@
                                     <div class="row justify-content-center">
                                         <div class="col-lg-8 col-md-10 col-12 mb-4 mb-lg-0">
                                                 <div class="custom-block bg-white shadow-lg">
-                                                    <a href="https://tabanan-frontend.ppdb-online.web.id/pengumuman">
+                                                    <a href="#">
                                                         <div class="d-flex justify-content-center align-items-center">
                                                             <div>
                                                                 <h5 class="mb-2">SPMB Jalur Afirmasi</h5>
                                                                 <p class="text-black">Mari cek pendaftaran jalur afirmasi yang sedang berlangsung disini!</p>
                                                             </div>
 
-                                                            <span class="badge bg-advertising rounded-pill ms-auto" style="padding: 5px 30px;">Aktif</span>
+                                                            <span class="badge bg-advertising rounded-pill ms-auto" style="padding: 5px 30px;">Non Aktif</span>
                                                         </div>
 
                                                         <img src="/topiclist/images/topics/undraw_viral_tweet_gndb.png" class="custom-block-image img-fluid mt-3" style="object-fit: cover; width: 100%; height: 100%;" alt="">
@@ -267,14 +267,14 @@
                                     <div class="row justify-content-center">
                                         <div class="col-lg-8 col-md-10 col-12 mb-4 mb-lg-0">
                                                 <div class="custom-block bg-white shadow-lg">
-                                                    <a href="https://tabanan-frontend.ppdb-online.web.id/pengumuman">
+                                                    <a href="#">
                                                         <div class="d-flex justify-content-center align-items-center">
                                                             <div>
                                                                 <h5 class="mb-2">SPMB Jalur Mutasi</h5>
                                                                 <p class="text-black">Mari cek pendaftaran jalur mutasi yang sedang berlangsung disini!</p>
                                                             </div>
 
-                                                            <span class="badge bg-advertising rounded-pill ms-auto" style="padding: 5px 30px;">Aktif</span>
+                                                            <span class="badge bg-advertising rounded-pill ms-auto" style="padding: 5px 30px;">Non Aktif</span>
                                                         </div>
 
                                                         <img src="/topiclist/images/topics/undraw_Educator_re_ju47.png" class="custom-block-image img-fluid mt-3" style="object-fit: cover; width: 100%; height: 100%;" alt="">
@@ -288,13 +288,13 @@
                                     <div class="row justify-content-center">
                                         <div class="col-lg-8 col-md-10 col-12 mb-4 mb-lg-0">
                                             <div class="custom-block bg-white shadow-lg">
-                                                <a href="https://tabanan-frontend.ppdb-online.web.id/pengumuman">
+                                                <a href="#">
                                                     <div class="d-flex justify-content-center align-items-center">
                                                         <div>
                                                             <h5 class="mb-2">SPMB Jalur Prestasi</h5>
                                                             <p class="text-black">Mari cek pendaftaran jalur prestasi yang sedang berlangsung disini!</p>
                                                         </div>
-                                                        <span class="badge bg-advertising rounded-pill ms-auto" style="padding: 5px 30px;">Aktif</span>
+                                                        <span class="badge bg-advertising rounded-pill ms-auto" style="padding: 5px 30px;">Non Aktif</span>
                                                     </div>
                                                     <img src="/topiclist/images/topics/undraw_Group_video_re_btu7.png" class="custom-block-image img-fluid mt-3" style="object-fit: cover; width: 100%; height: 100%;" alt="">
                                                 </a>
@@ -316,7 +316,7 @@
                     <div class="row">
 
                         <div class="col-12 text-center">
-                            <h2 class="text-white mb-4">Persyaratan Umum SPMB</h1>
+                            <h2 class="text-white mb-4">Persyaratan Umum SPMB</h2>
                         </div>
 
                         <div class="col-lg-10 col-12 mx-auto">
@@ -329,7 +329,7 @@
                                     <li>
                                         <h4 class="text-white mb-3">Persyaratan Usia Calon Peserta Didik</h4>
 
-                                        <p class="text-white">Berusia paling rendah 6 tahun pada tanggal 1 Juli 2025 (Untuk Sekolah Dasar) serta berusia paling tinggi 15 (lima belas) tahun pada tanggal 1 Juli 2025 (Untuk Sekolah Menengah Pertama)</p>
+                                        <p class="text-white">Berusia paling rendah 6 tahun pada tanggal 1 Juli 2026 (Untuk Sekolah Dasar) serta berusia paling tinggi 15 (lima belas) tahun pada tanggal 1 Juli 2026 (Untuk Sekolah Menengah Pertama)</p>
 
                                         <div class="icon-holder">
                                           <i class="bi-calendar"></i>
@@ -359,7 +359,7 @@
                                     <li>
                                         <h4 class="text-white mb-3">Persyaratan Keabsahan Dokumen</h4>
 
-                                        <p class="text-white">Membuat Surat Pernyataan Orang Tua/Wali tentang keabsahan dokumen sesuai yang tertera pada Lampiran <a href="https://tinyurl.com/SPMBTabanan2025" class="text-link"> berikut</a></p>
+                                        <p class="text-white">Membuat Surat Pernyataan Orang Tua/Wali tentang keabsahan dokumen sesuai yang tertera pada Lampiran <a href="#" class="text-link"> berikut</a></p>
 
                                         <div class="icon-holder">
                                           <i class="bi-search"></i>
@@ -489,7 +489,7 @@
                     </div>
 
                     <div class="col-lg-3 col-md-4 col-12 mt-4 mt-lg-0 ms-auto">
-                        <p class="copyright-text mt-lg-5 mt-4">Copyright © 2025 Dinas Pendidikan Kabupaten Tabanan
+                        <p class="copyright-text mt-lg-5 mt-4">Copyright © 2026 Dinas Pendidikan Kabupaten Tabanan
                     </div>
 
                 </div>
