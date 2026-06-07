@@ -929,8 +929,20 @@ blockquote {
   SITE FOOTER              
 -----------------------------------------*/
 .site-footer {
+  background-color: #1a1a1a;
   border-bottom: 10px solid var(--secondary-color);
   position: relative;
+}
+
+.site-footer,
+.site-footer a,
+.site-footer p,
+.site-footer span {
+  color: #ffffff !important;
+}
+
+.site-footer a:hover {
+  color: #ff0000 !important;
 }
 
 .site-footer::after {

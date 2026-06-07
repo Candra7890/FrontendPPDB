@@ -65,28 +65,28 @@
                                         <tbody>
                                             <tr>
                                                 <td>Pendaftaran</td>
-                                                <td>Senin-Rabu (30 Juni s.d 2 Juli 2025)</td>
-                                                <td>Buka Tgl. 30 Juni 2025 pukul 08.00 Wita dan Tutup Tgl. 2 Juli 2025 pukul 14.00 Wita </td>
+                                                <td>Senin-Rabu (22 Juni s.d 24 Juni 2026)</td>
+                                                <td>Buka Tgl. 22 Juni 2026 pukul 08.00 Wita dan Tutup Tgl. 24 Juni 2025 pukul 14.00 Wita </td>
                                             </tr>
                                             <tr>
                                                 <td>Verifikasi</td>
-                                                <td>Senin-Rabu (30 Juni s.d 2 Juli 2025) </td>
-                                                <td>Buka Tgl. 30 Juni 2025 pukul 08.00 Wita dan Tutup Tgl. 2 Juli 2025 pukul 15.00 Wita </td>
+                                                <td>Senin-Rabu (22 Juni s.d 24 Juni 2026) </td>
+                                                <td>Buka Tgl. 22 Juni 2026 pukul 08.00 Wita dan Tutup Tgl. 24 Juni 2026 pukul 15.00 Wita </td>
                                             </tr>
                                             <tr>
                                                 <td>Pengumuman</td>
-                                                <td>Kamis, 3 Juli 2025</td>
-                                                <td>Pukul 09.00 Wita </td>
+                                                <td>Kamis, 25 Juni 2026</td>
+                                                <td>Mulai pukul 09.00 Wita </td>
                                             </tr>
                                             <tr>
                                                 <td>Masa Sanggah</td>
-                                                <td>Jumat, 4 Juli 2025</td>
-                                                <td>Saat jam kerja </td>
+                                                <td>Senin - Selasa, 29-30 Juni 2026</td>
+                                                <td>(saat jam kerja) </td>
                                             </tr>
                                             <tr>
                                                 <td>Daftar Ulang</td>
-                                                <td>Senin-Jumat (14 Juli s.d 18 Juli 2025)</td>
-                                                <td>Buka Tgl. 14 Juli 2025 pukul 08.00 Wita  dan Tutup Tgl. 18 Juli 2025 pukul 13.00 Wita</td>
+                                                <td>Senin-Sabtu (6 Juli s.d 11 Juli 2026)</td>
+                                                <td>Buka Tgl. 6 Juli 2026 pukul 08.00 Wita  dan Tutup Tgl. 11 Juli 2026 pukul 13.00 Wita</td>
                                             </tr>
                                         </tbody>
                                     </table>
@@ -109,28 +109,28 @@
                                         <tbody>
                                             <tr>
                                                 <td>Pendaftaran</td>
-                                                <td>Senin-Rabu (30 Juni s.d 2 Juli 2025)</td>
-                                                <td>Buka Tgl. 30 Juni 2025 pukul 08.00 Wita dan Tutup Tgl. 2 Juli 2025 pukul 14.00 Wita </td>
+                                                <td>Senin-Rabu (22 Juni s.d 24 Juni 2026)</td>
+                                                <td>Buka Tgl. 22 Juni 2026 pukul 08.00 Wita dan Tutup Tgl. 24 Juni 2025 pukul 14.00 Wita </td>
                                             </tr>
                                             <tr>
                                                 <td>Verifikasi </td>
-                                                <td>Senin-Rabu (30 Juni s.d 2 Juli 2025) </td>
-                                                <td>Buka Tgl. 30 Juni 2025 pukul 08.00 Wita dan Tutup Tgl. 2 Juli 2025 pukul 15.00 Wita </td>
+                                                <td>Senin-Rabu (22 Juni s.d 24 Juni 2026) </td>
+                                                <td>Buka Tgl. 22 Juni 2026 pukul 08.00 Wita dan Tutup Tgl. 24 Juni 2026 pukul 15.00 Wita </td>
                                             </tr>
                                             <tr>
                                                 <td>Pengumuman</td>
-                                                <td> Kamis, 3 Juli 2025</td>
-                                                <td>Pukul 09.00 Wita</td>
+                                                <td> Kamis, 25 Juni 2026</td>
+                                                <td>Mulai pukul 09.00 Wita</td>
                                             </tr>
                                             <tr>
                                                 <td>Masa Sanggah</td>
-                                                <td>Jumat, 4 Juli 2025</td>
-                                                <td>Saat jam kerja</td>
+                                                <td>Senin - Selasa, 29-30 Juni 2026</td>
+                                                <td>(saat jam kerja)</td>
                                             </tr>
                                             <tr>
                                                 <td>Daftar Ulang</td>
-                                                <td>Senin-Jumat (14 Juli s.d 18 Juli 2025) </td>
-                                                <td>Buka Tgl. 14 Juli 2025 pukul 08.00 Wita dan Tutup Tgl. 18 Juli 2025 pukul 13.00 Wita</td>
+                                                <td>Senin-Sabtu (6 Juli s.d 11 Juli 2026) </td>
+                                                <td>Buka Tgl. 6 Juli 2026 pukul 08.00 Wita dan Tutup Tgl. 11 Juli 2026 pukul 13.00 Wita</td>
                                             </tr>
                                         </tbody>
                                     </table>
@@ -152,28 +152,28 @@
                                         <tbody>
                                             <tr>
                                                 <td>Pendaftaran</td>
-                                                <td>Senin-Rabu (30 Juni s.d 2 Juli 2025) </td>
-                                                <td>Buka Tgl. 30 Juni 2025 pukul 08.00 Wita dan Tutup Tgl. 2 Juli 2025 pukul 14.00 Wita </td>
+                                                <td>Senin-Rabu (22 Juni s.d 24 Juni 2026) </td>
+                                                <td>Buka Tgl. 22 Juni 2026 pukul 08.00 Wita dan Tutup Tgl. 24 Juni 2025 pukul 14.00 Wita </td>
                                             </tr>
                                             <tr>
                                                 <td>Verifikasi</td>
-                                                <td>Senin-Rabu (30 Juni s.d 2 Juli 2025)</td>
-                                                <td>Buka Tgl.  30 Juni 2025 pukul 08.00 Wita dan Tutup Tgl. 2 Juli 2025 pukul 15.00 Wita</td>
+                                                <td>Senin-Rabu (22 Juni s.d 24 Juni 2026)</td>
+                                                <td>Buka Tgl.  22 Juni 2026 pukul 08.00 Wita dan Tutup Tgl. 24 Juni 2026 pukul 15.00 Wita</td>
                                             </tr>
                                             <tr>
                                                 <td>Pengumuman</td>
-                                                <td>Kamis, 3 Juli 2025</td>
-                                                <td>Pukul 09.00 Wita</td>
+                                                <td>Kamis, 25 Juni 2026</td>
+                                                <td>Mulai pukul 09.00 Wita</td>
                                             </tr>
                                             <tr>
                                                 <td>Masa Sanggah</td>
-                                                <td>Jumat, 4 Juli 2025</td>
-                                                <td>Saat jam kerja</td>
+                                                <td>Senin - Selasa, 29-30 Juni 2026</td>
+                                                <td>(saat jam kerja)</td>
                                             </tr>
                                             <tr>
                                                 <td>Daftar Ulang</td>
-                                                <td>Senin-Jumat (14 Juli s.d 18 Juli 2025) </td>
-                                                <td>Buka Tgl. 14 Juli 2025 pukul 08.00 Wita  dan Tutup Tgl. 18 Juli 2025 pukul 13.00 Wita</td>
+                                                <td>Senin-Sabtu (6 Juli s.d 11 Juli 2026) </td>
+                                                <td>Buka Tgl. 6 Juli 2026 pukul 08.00 Wita  dan Tutup Tgl. 11 Juli 2026 pukul 13.00 Wita</td>
                                             </tr>
                                         </tbody>
                                     </table>
@@ -196,28 +196,28 @@
                                         <tbody>
                                             <tr>
                                                 <td>Pendaftaran</td>
-                                                <td> Senin-Rabu (7 Juli s.d 9 Juli 2025) </td>
-                                                <td>Buka Tgl. 7 Juli 2025 pukul 08.00 Wita dan Tutup Tgl. 9 Juli 2025 pukul 14.00 Wita </td>
+                                                <td> Senin-Rabu (29 Juni s.d 1 Juli 2026) </td>
+                                                <td>Buka Tgl. 29 Juni 2026 pukul 08.00 Wita dan Tutup Tgl. 1 Juli 2026 pukul 14.00 Wita </td>
                                             </tr>
                                             <tr>
                                                 <td>Verifikasi</td>
-                                                <td>Senin-Rabu (7 Juli s.d 9 Juli 2025)  </td>
-                                                <td>Buka Tgl. 7 Juli 2025 pukul 08.00 Wita  dan Tutup Tgl. 9 Juni 2025 pukul 15.00 Wita</td>
+                                                <td>Senin-Rabu (29 Juni s.d 1 Juli 2026)  </td>
+                                                <td>Buka Tgl. 29 Juni 2026 pukul 08.00 Wita  dan Tutup Tgl. 1 Juli 2026 pukul 15.00 Wita</td>
                                             </tr>
                                             <tr>
                                                 <td>Pengumuman</td>
-                                                <td>Kamis, 10 Juli 2025 </td>
-                                                <td>Pukul 09.00 Wita</td>
+                                                <td>Kamis, 2 Juli 2026 </td>
+                                                <td>Mulai pukul 09.00 Wita</td>
                                             </tr>
                                             <tr>
                                                 <td>Masa Sanggah</td>
-                                                <td>Jumat, 11 Juli 2025</td>
-                                                <td>Saat jam kerja</td>
+                                                <td>Jumat dan Senin, 2 dan 6 Juli 2026</td>
+                                                <td>(saat jam kerja)</td>
                                             </tr>
                                             <tr>
                                                 <td>Daftar Ulang</td>
-                                                <td>Senin-Jumat (14 Juli s.d 18 Juli 2025) </td>
-                                                <td>Buka Tgl. 14 Juli 2025 pukul 08.00 Wita dan Tutup Tgl. 18 Juli 2025 pukul 13.00 Wita </td>
+                                                <td>Senin-Sabtu (6 Juli s.d 11 Juli 2026) </td>
+                                                <td>Buka Tgl. 6 Juli 2026 pukul 08.00 Wita dan Tutup Tgl. 11 Juli 2026 pukul 13.00 Wita </td>
                                             </tr>
                                         </tbody>
                                     </table>
