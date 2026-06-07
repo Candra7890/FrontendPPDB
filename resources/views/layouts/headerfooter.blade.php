@@ -94,11 +94,11 @@
                 <div class="row">
 
                     <div class="col-lg-3 col-12 mb-4 pb-2">
-                        <a class="navbar-brand d-flex align-items-center" href="/">
-                            <img class="mr-2" src="/topiclist/images/OIP__15_-removebg-preview.png" style="width: 100px; height: 100;">
-                            <div>
-                                <span>SPMB</span><br>
-                                <span>TABANAN</span>
+                        <a class="navbar-brand d-flex align-items-center" href="/" style="text-decoration: none;">
+                            <img class="me-3" src="/topiclist/images/OIP__15_-removebg-preview.png" style="width: 60px; height: 60px; object-fit: contain;">
+                            <div style="line-height: 1.1;">
+                                <span style="font-size: 18px; font-weight: 700; color: #ffffff;">SPMB</span><br>
+                                <span style="font-size: 22px; font-weight: 700; color: #ffffff;">TABANAN</span>
                             </div>
                         </a>
                     </div>
