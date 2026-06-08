@@ -22,7 +22,7 @@
 <section class="explore-section section-padding" id="section_2">
         <div class="col-12 text-center">
             <h2 class="mb-4">Jadwal Pelaksanaan SPMB</h1>
-            <p class="mb-5">Halaman ini menyediakan informasi terkait periode serta jadwal pelaksanaan SPMB setiap jalur di Kabupaten Tabanan tahun 2025.</p>
+            <p class="mb-5">Halaman ini menyediakan informasi terkait periode serta jadwal pelaksanaan SPMB setiap jalur di Kabupaten Tabanan tahun 2026.</p>
         </div>
                 <div class="container-fluid">
                     <div class="row">
@@ -66,7 +66,7 @@
                                             <tr>
                                                 <td>Pendaftaran</td>
                                                 <td>Senin-Rabu (22 Juni s.d 24 Juni 2026)</td>
-                                                <td>Buka Tgl. 22 Juni 2026 pukul 08.00 Wita dan Tutup Tgl. 24 Juni 2025 pukul 14.00 Wita </td>
+                                                <td>Buka Tgl. 22 Juni 2026 pukul 08.00 Wita dan Tutup Tgl. 24 Juni 2026 pukul 14.00 Wita </td>
                                             </tr>
                                             <tr>
                                                 <td>Verifikasi</td>
@@ -110,7 +110,7 @@
                                             <tr>
                                                 <td>Pendaftaran</td>
                                                 <td>Senin-Rabu (22 Juni s.d 24 Juni 2026)</td>
-                                                <td>Buka Tgl. 22 Juni 2026 pukul 08.00 Wita dan Tutup Tgl. 24 Juni 2025 pukul 14.00 Wita </td>
+                                                <td>Buka Tgl. 22 Juni 2026 pukul 08.00 Wita dan Tutup Tgl. 24 Juni 2026 pukul 14.00 Wita </td>
                                             </tr>
                                             <tr>
                                                 <td>Verifikasi </td>
@@ -153,7 +153,7 @@
                                             <tr>
                                                 <td>Pendaftaran</td>
                                                 <td>Senin-Rabu (22 Juni s.d 24 Juni 2026) </td>
-                                                <td>Buka Tgl. 22 Juni 2026 pukul 08.00 Wita dan Tutup Tgl. 24 Juni 2025 pukul 14.00 Wita </td>
+                                                <td>Buka Tgl. 22 Juni 2026 pukul 08.00 Wita dan Tutup Tgl. 24 Juni 2026 pukul 14.00 Wita </td>
                                             </tr>
                                             <tr>
                                                 <td>Verifikasi</td>

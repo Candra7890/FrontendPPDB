@@ -25,7 +25,7 @@
                                 Mohon untuk menggunakan tabel yang telah disediakan dibawah untuk mencari informasi beserta data yang telah tersedia.</p>
                                 <div class="row">
         <div class="table-responsive">
-            <h3 class="text-center mb-4">Daya Tampung Sekolah SMP SPMB 2025</h3>
+            <h3 class="text-center mb-4">Daya Tampung Sekolah SMP SPMB 2026</h3>
             <table class="table table-bordered text-center">
                 <thead>
                     <tr style="background-color: #c73737; color: #ffffff;">
