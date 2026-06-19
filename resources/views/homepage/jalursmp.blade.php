@@ -54,7 +54,7 @@
                         <div class="row justify-content-center">
                             <div class="col-lg-10 col-md-12 mb-8">
                                 <div class="custom-block bg-white shadow-lg">
-                                    <img src="/topiclist/images/Afirmasi.jpg" class="custom-block-image img-fluid" style="max-width: 100%; height: auto; object-fit: contain;" alt=""> 
+                                    <img src="/topiclist/images/afirmasi2026.png" class="custom-block-image img-fluid" style="max-width: 100%; height: auto; object-fit: contain;" alt=""> 
                                 </div>
                             </div>
                         </div>
@@ -64,7 +64,7 @@
                         <div class="row justify-content-center">
                             <div class="col-lg-10 col-md-12 mb-8">
                                 <div class="custom-block bg-white shadow-lg">
-                                    <img src="/topiclist/images/Mutasi.jpg" class="custom-block-image img-fluid" style="max-width: 100%; height: auto; object-fit: contain;" alt=""> 
+                                    <img src="/topiclist/images/mutasi2026.png" class="custom-block-image img-fluid" style="max-width: 100%; height: auto; object-fit: contain;" alt=""> 
                                 </div>
                             </div>
                         </div>
@@ -74,7 +74,7 @@
                         <div class="row justify-content-center">
                             <div class="col-lg-10 col-md-12 mb-8">
                                 <div class="custom-block bg-white shadow-lg">
-                                    <img src="/topiclist/images/Prestasi.jpg" class="custom-block-image img-fluid" style="max-width: 100%; height: auto; object-fit: contain;" alt="">
+                                    <img src="/topiclist/images/prestasi2026.png" class="custom-block-image img-fluid" style="max-width: 100%; height: auto; object-fit: contain;" alt="">
                                 </div>
                             </div>
                         </div>
@@ -84,7 +84,7 @@
                         <div class="row justify-content-center">
                             <div class="col-lg-10 col-md-12 mb-8">
                                 <div class="custom-block bg-white shadow-lg">
-                                    <img src="/topiclist/images/Domisili.jpg" class="custom-block-image img-fluid" style="max-width: 100%; height: auto; object-fit: contain;" alt=""> 
+                                    <img src="/topiclist/images/domisili2026.png" class="custom-block-image img-fluid" style="max-width: 100%; height: auto; object-fit: contain;" alt=""> 
                                 </div>
                             </div>
                         </div>
