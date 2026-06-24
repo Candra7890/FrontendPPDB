@@ -192,11 +192,11 @@
 
                                     <div class="custom-block-overlay-text d-flex">
                                         <div>
-                                            <h5 class="text-white mb-2">Perankingan Pendaftaran SMP</h5>
+                                            <h5 class="text-white mb-2">Cek Pendaftaran SMP</h5>
 
-                                            <p class="text-white">Cek perankingan pendaftaran masing-masing sekolah SMP di Kabupaten Tabanan disini!</p>
+                                            <p class="text-white">Cek pendaftaran masing-masing sekolah SMP di Kabupaten Tabanan disini!</p>
 
-                                            <a href="https://spmb-frontend.tabanankab.go.id/pengumuman" class="btn custom-btn mt-2 mt-lg-3" style="background-color: #FF0000;">Cek Perankingan</a>
+                                            <a href="https://spmb-frontend.tabanankab.go.id/pengumuman" class="btn custom-btn mt-2 mt-lg-3" style="background-color: #FF0000;">Cek Pendaftaran</a>
                                         </div>
                                     </div>
 
